@@ -14,7 +14,7 @@ Subtitute `pdf` with `docx`, `epub`, `html`, etc.
 
 The concept, template, and code are under CC0.
 
-The content itself, the details of my CV, should not be modified, remixed, shared or distributed without my consent.
+The content itself, the details of my CV, can be shared and distributed but should not be modified or remixed without my consent.
 
 [Markdown]: http://daringfireball.net/projects/markdown/
 [Pandoc]: http://johnmacfarlane.net/pandoc
