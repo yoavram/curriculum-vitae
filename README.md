@@ -12,7 +12,7 @@ Subtitute `pdf` with `docx`, `epub`, `html`, etc.
 
 ### License
 
-The concept, template, and code is under CC0.
+The concept, template, and code are under CC0.
 
 The content itself, the details of my CV, should not be modified, remixed, shared or distributed without my consent.
 
