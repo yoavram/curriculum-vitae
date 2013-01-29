@@ -78,6 +78,8 @@ Undergraduate Diversity Mentoring Program award at *SMBE 2010*, Lyon, France
 
 ## Teaching
 
+Spring 2013
+:    Extended Introduction to Computer Science (0368-1105, TA)
 Fall 2012 
 :    Python Programming for Engineers (0509-1820, TA)
 Spring 2012
