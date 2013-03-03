@@ -19,3 +19,4 @@ The content itself, the details of my CV, can be shared and distributed but shou
 [Markdown]: http://daringfireball.net/projects/markdown/
 [Pandoc]: http://johnmacfarlane.net/pandoc
 [Markx]: https://github.com/yoavram/markx
+
