@@ -41,18 +41,18 @@ Causes and Consequences*, approved 5.2012
 ## Presentations
 
 2012
-:    Oral presentation at *The 1st Graduate Students' Conference in Genetics, Genomics and Evolution*, The Ben-Gurion University of the Negev, September 23. DOI: [10.6084/m9.figshare.96049](http://dx.doi.org/10.6084/m9.figshare.96049)
+:    **Evolutionary Causes and Consequences of Stress-Induced Hypermutation** - Oral presentation at *The 1st Graduate Students' Conference in Genetics, Genomics and Evolution*, The Ben-Gurion University of the Negev, September 23. DOI: [10.6084/m9.figshare.96049](http://dx.doi.org/10.6084/m9.figshare.96049)
 2012
 :    Seminar presentation at the Pilpel Lab at the Weizmann Institute of Science, June
-:    Oral presentation at *PopGroup 45* in Nottingham, UK, January. DOI: [10.6084/m9.figshare.95939](http://dx.doi.org/10.6084/m9.figshare.96049)
+:    **The Evolution of Stress-Induced Mutagenesis in Finite and Infinite Populations** - Oral presentation at *PopGroup 45* in Nottingham, UK, January. DOI: [10.6084/m9.figshare.95939](http://dx.doi.org/10.6084/m9.figshare.96049)
 2011
 :    Seminar presentation at the Eldar Lab at Tel-Aviv University, December
 :    Seminar presentation at the Department of Molecular Biology and Plants M.Sc. Seminar at Tel-Aviv University, November
-:    Seminar presentation at the *BioMath Student Journal Club*, Tel-Aviv University, May. DOI: [10.6084/m9.figshare.95940](http://dx.doi.org/10.6084/m9.figshare.95940)
+:    **Rise and Fall of Mutator Bacteria** - Seminar presentation at the *BioMath Student Journal Club*, Tel-Aviv University, May. DOI: [10.6084/m9.figshare.95940](http://dx.doi.org/10.6084/m9.figshare.95940)
 :    Poster at *ESEB 2011* in Tubingen, Germany, August. See: [F1000 Posters 2011, 2: 1484](http://f1000.com/posters/browse/summary/2211)
 2010
-:    Poster at *SMBE 2010* in Lyon, France, July
-:    Poster at *MMSB 2010* in Tel-Aviv, Israel – won the *Best poster award*
+:    **The Evolution of Stress-Induced Hypermutation** - Poster at *SMBE 2010* in Lyon, France, July
+:    **The Evolution of Stress-Induced Hypermutation** - Poster at *MMSB 2010* in Tel-Aviv, Israel – won the *Best poster award*
 
 ## Awards
 
