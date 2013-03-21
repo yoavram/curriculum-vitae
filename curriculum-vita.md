@@ -12,6 +12,8 @@ Email
   ~ yoavram@post.tau.ac.il
 Website
   ~ [www.yoavram.com](http://www.yoavram.com/)
+Blog
+  ~ [blog.yoavram.com](http://blog.yoavram.com/)
 
 ## Education
 
@@ -39,9 +41,10 @@ Causes and Consequences*, approved 5.2012
 *   Even-Tov, E., Obolski, U., Gueijman, A., **Ram, Y.**, Hadany, L. (2010) The Evolutionary Riddle of Sexual Reproduction. *Galileo, an Israeli journal for popular science*: June, 32-41
 
 ## Presentations
-
+2013
+:   **The role of stress-induced mutation in the emergence of complex adaptations** - Oral presentation at the *5th Anual SIDEER Graduate Symposium*, Ben-Gurion University of the Negev, Sede-Boqer Campus, March 20.
 2012
-:    **Evolutionary Causes and Consequences of Stress-Induced Hypermutation** - Oral presentation at *The 1st Graduate Students' Conference in Genetics, Genomics and Evolution*, The Ben-Gurion University of the Negev, September 23. DOI: [10.6084/m9.figshare.96049](http://dx.doi.org/10.6084/m9.figshare.96049)
+:    **Evolutionary Causes and Consequences of Stress-Induced Hypermutation** - Oral presentation at *The 1st Graduate Students' Conference in Genetics, Genomics and Evolution*, Ben-Gurion University of the Negev, September 23. DOI: [10.6084/m9.figshare.96049](http://dx.doi.org/10.6084/m9.figshare.96049)
 2012
 :    Seminar presentation at the Pilpel Lab at the Weizmann Institute of Science, June
 :    **The Evolution of Stress-Induced Mutagenesis in Finite and Infinite Populations** - Oral presentation at *PopGroup 45* in Nottingham, UK, January. DOI: [10.6084/m9.figshare.95939](http://dx.doi.org/10.6084/m9.figshare.96049)
@@ -64,7 +67,7 @@ Causes and Consequences*, approved 5.2012
 :    SSE International Travel Award to *ESEB 2011*, Tubingen, Germany
 2010
 :    Direct Ph.D. scholarship by the Department of Molecular Biology and Ecology of Plants, Tel-Aviv University, 2010-2015
-Undergraduate Diversity Mentoring Program award at *SMBE 2010*, Lyon, France
+:    Undergraduate Diversity Mentoring Program award at *SMBE 2010*, Lyon, France
 :    Best poster award at *MMSB 2010*, Tel-Aviv
 2009
 :    The *Amos de-Shalit* Ulpana for excellent students in Life-Sciences at the Weizmann Institute of Science
@@ -90,8 +93,10 @@ Fall 2011
 :    Co-organizing the [BioMath Student Journal Club](http://biomathsjctau.wordpress.com/) at Tel-Aviv University
 
 ## Conferences
+2013
+:    *The 5th Annual SIDEER Graduate Symposium - The Emergence of Design in Nature*, Ben-Gurion University of the Negev, Sede-Boqer Campus
 2012
-:    *The 1st Graduate Students' Conference in Genetics, Genomics and Evolution*, The Ben-Gurion University of the Negev
+:    *The 1st Graduate Students' Conference in Genetics, Genomics and Evolution*, Ben-Gurion University of the Negev
 :    *The 45th Population Genetics Group* meeting, Nottingham, UK
 2011
 :    *The 13th Congress of the European Society for Evolutionary Biology* (ESEB) in Tubingen, Germany
