@@ -1,6 +1,6 @@
 % Curriculum Vitae 
 % Yoav Ram
-% March 2013
+% April 2013
 
 ## Personal Information
 
@@ -36,9 +36,6 @@ Causes and Consequences*, approved 5.2012
 *   Gueijman, A., Ayali, A., **Ram, Y.**, and Hadany, L. Dispersing away from bad environments: The evolution of fitness-associated dispersal (FAD) in homogeneous environments. *Submitted*.
 *   Geffen, E., Hadany, L., **Ram, Y.**, and Gafny, S. Genetic diversity in edge populations: A complementary view. *Submitted*.
 
-## Non-Academic Publications
-
-*   Even-Tov, E., Obolski, U., Gueijman, A., **Ram, Y.**, Hadany, L. (2010) The Evolutionary Riddle of Sexual Reproduction. *Galileo, an Israeli journal for popular science*: June, 32-41
 
 ## Presentations
 2013
@@ -108,3 +105,13 @@ Fall 2011
 2009
 :    *From Darwin to Evo-Devo Symposium* at the Technion in Haifa, Israel
 :    *Evolution in Jerusalem: A Workshop in Celebration of Darwin’s ‘The Origin of 	Species’* at the Hebrew in Jerusalem, Israel
+
+## Public Outreach
+
+### Publications
+
+*   Even-Tov, E., Obolski, U., Gueijman, A., **Ram, Y.**, Hadany, L. (2010) The Evolutionary Riddle of Sexual Reproduction. *Galileo, an Israeli journal for popular science*: June, 32-41
+
+### Presentations
+
+* **Evolution and mutation in stressful times** - The evolution series in Tel-Aviv University's botanical gardens. 16.5.2013, 18:00. [link](https://campus5.tau.ac.il/events/evolution/16-5-13).
