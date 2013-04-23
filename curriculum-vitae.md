@@ -56,16 +56,18 @@ Causes and Consequences*, approved 5.2012
 
 ## Awards
 
+2013
+:    Travel award from the [Manna Institute for Plants BioSciences](http://manna.tau.ac.il/) to *ESEB 2013* in Lisbon, Portugal, August 2013.
 2012
-:    Research achievements scholarship by the Life-Science faculty, Tel-Aviv University
-:    Registration and accommodation waiver (sponsored by Cambridge University Press) for *PopGroup45*, Nottingham, UK
+:    Research achievements scholarship from the Life-Science faculty, Tel-Aviv University
+:    Registration and accommodation waiver (sponsored by Cambridge University Press) for *PopGroup45* in Nottingham, UK
 :    Crowd-funded travel expanses for *PopGroup 45* via [The #SciFund Challenge](http://scifundchallenge.org/)
 2011
-:    SSE International Travel Award to *ESEB 2011*, Tubingen, Germany
+:    SSE International Travel Award to *ESEB 2011* in Tubingen, Germany
 2010
-:    Direct Ph.D. scholarship by the Department of Molecular Biology and Ecology of Plants, Tel-Aviv University, 2010-2015
-:    Undergraduate Diversity Mentoring Program award at *SMBE 2010*, Lyon, France
-:    Best poster award at *MMSB 2010*, Tel-Aviv
+:    Direct Ph.D. scholarship from the Department of Molecular Biology and Ecology of Plants, Tel-Aviv University, 2010-2015
+:    Undergraduate Diversity Mentoring Program award at *SMBE 2010* in Lyon, France
+:    Best poster award at *MMSB 2010* in Tel-Aviv
 2009
 :    The *Amos de-Shalit* Ulpana for excellent students in Life-Sciences at the Weizmann Institute of Science
 
@@ -91,6 +93,7 @@ Fall 2011
 
 ## Conferences
 2013
+:    Future: *The 14th Congress of the European Society for Evolutionary Biology* (ESEB) in Lisbon, Portugal
 :    *The 5th Annual SIDEER Graduate Symposium - The Emergence of Design in Nature*, Ben-Gurion University of the Negev, Sede-Boqer Campus
 2012
 :    *The 1st Graduate Students' Conference in Genetics, Genomics and Evolution*, Ben-Gurion University of the Negev
