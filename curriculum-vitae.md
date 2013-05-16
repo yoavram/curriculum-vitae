@@ -1,6 +1,6 @@
 % Curriculum Vitae 
 % Yoav Ram
-% April 2013
+% May 2013
 
 ## Personal Information
 
@@ -32,13 +32,13 @@ Causes and Consequences*, approved 5.2012
 
 ## Publications
 
-*   **Ram, Y.** and Hadany, L. (2012) The evolution of stress-induced hypermutation in asexual populations. *Evolution*, 66: 2315-2328. DOI: [10.1111/j.1558-5646.2012.01576.x](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2012.01576.x/abstract)
-*   Gueijman, A., Ayali, A., **Ram, Y.**, and Hadany, L. Dispersing away from bad environments: The evolution of fitness-associated dispersal (FAD) in homogeneous environments. *Submitted*.
 *   Geffen, E., Hadany, L., **Ram, Y.**, and Gafny, S. Genetic diversity in edge populations: A complementary view. *Submitted*.
-
+*   Gueijman, A., Ayali, A., **Ram, Y.**, and Hadany, L. (2013) Dispersing away from bad environments: The evolution of fitness-associated dispersal (FAD) in homogeneous environments. *BMC Evol. Biol.*, In print.
+*   **Ram, Y.** and Hadany, L. (2012) The evolution of stress-induced hypermutation in asexual populations. *Evolution*, 66: 2315-2328. DOI: [10.1111/j.1558-5646.2012.01576.x](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2012.01576.x/abstract)
 
 ## Presentations
 2013
+:   **Stress-induced mutagenesis and the evolution of complex traits** - Poster at *Gordon Research Conference on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 2-6.
 :   **The role of stress-induced mutation in the emergence of complex adaptations** - Oral presentation at the *5th Anual SIDEER Graduate Symposium*, Ben-Gurion University of the Negev, Sede-Boqer Campus, March 20.
 2012
 :    **Evolutionary Causes and Consequences of Stress-Induced Hypermutation** - Oral presentation at *The 1st Graduate Students' Conference in Genetics, Genomics and Evolution*, Ben-Gurion University of the Negev, September 23. DOI: [10.6084/m9.figshare.96049](http://dx.doi.org/10.6084/m9.figshare.96049)
@@ -93,7 +93,8 @@ Fall 2011
 
 ## Conferences
 2013
-:    Future: *The 14th Congress of the European Society for Evolutionary Biology* (ESEB) in Lisbon, Portugal
+:    Future: *The 14th Congress of the European Society for Evolutionary Biology* (ESEB), Lisbon, Portugal
+:    Future: *Gordon Research Conference on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA.
 :    *The 5th Annual SIDEER Graduate Symposium - The Emergence of Design in Nature*, Ben-Gurion University of the Negev, Sede-Boqer Campus
 2012
 :    *The 1st Graduate Students' Conference in Genetics, Genomics and Evolution*, Ben-Gurion University of the Negev
