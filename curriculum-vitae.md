@@ -1,6 +1,6 @@
 % Curriculum Vitae 
 % Yoav Ram
-% May 2013
+% June 2013
 
 ## Personal Information
 
@@ -40,8 +40,8 @@ Blog
 
 ## Presentations
 2013
-:   Future: **Stress-induced Mmutagenesis and the Evolution of Complex Traits** - Poster at *Gordon Research Conference on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 2-6.
-:   Future: **Stress-Induced Mutation in the Presence of Recombination** - Poster at *ESEB 2013* in Lisbon, Portugal, August 19-24.
+:   Future: **Stress-induced Mmutagenesis and the Evolution of Complex Traits** - Poster at *ESEB 2013* in Lisbon, Portugal, August 19-24.
+:   **Stress-induced Mmutagenesis and the Evolution of Complex Traits** - Poster at the *Gordon Research Conference on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 2-6.
 :   **The Role of Stress-Induced Mutation in the Emergence of Complex Adaptations** - Oral presentation at the *5th Anual SIDEER Graduate Symposium*, Ben-Gurion University of the Negev, Sede-Boqer Campus, March 20.
 2012
 :    **Evolutionary Causes and Consequences of Stress-Induced Hypermutation** - Oral presentation at *The 1st Graduate Students' Conference in Genetics, Genomics and Evolution*, Ben-Gurion University of the Negev, September 23. DOI: [10.6084/m9.figshare.96049](http://dx.doi.org/10.6084/m9.figshare.96049).
@@ -97,7 +97,7 @@ Fall 2011
 ## Conferences
 2013
 :    Future: *The 14th Congress of the European Society for Evolutionary Biology* (ESEB) in Lisbon, Portugal, August.
-:    Future: *Gordon Research Conference on Biological Mechanisms in Evolution* in Stonehill College, Easton, MA, USA, June.
+:    ***Gordon Research Conference** on Biological Mechanisms in Evolution* in Stonehill College, Easton, MA, USA, June.
 :    *The 5th Annual SIDEER Graduate Symposium - The Emergence of Design in Nature* in Ben-Gurion University of the Negev, Sede-Boqer Campus, March.
 2012
 :    *The 1st Graduate Students' Conference in Genetics, Genomics and Evolution* in Ben-Gurion University of the Negev, September.
