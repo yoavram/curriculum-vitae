@@ -1,6 +1,6 @@
 % Curriculum Vitae 
 % Yoav Ram
-% June 2013
+% July 2013
 
 ## Personal Information
 
@@ -40,7 +40,7 @@ Blog
 
 ## Presentations
 2013
-:   Future: **Stress-induced Mmutagenesis and the Evolution of Complex Traits** - Poster at *ESEB 2013* in Lisbon, Portugal, August 19-24.
+:   _Upcoming_: **Adaptedness, Adaptability and Stress-Induced Mutagenesis** - Poster at *ESEB 2013* in Lisbon, Portugal, August 19-24.
 :   **Stress-induced Mmutagenesis and the Evolution of Complex Traits** - Poster at the *Gordon Research Conference on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 2-6.
 :   **The Role of Stress-Induced Mutation in the Emergence of Complex Adaptations** - Oral presentation at the *5th Anual SIDEER Graduate Symposium*, Ben-Gurion University of the Negev, Sede-Boqer Campus, March 20.
 2012
@@ -83,6 +83,11 @@ Blog
 
 ## Teaching
 
+Fall 2013
+:    Python Programming for Engineers (0509-1820, Teacher)
+Summer 2013
+:    Gentle Introduction to Programming (preparation course for 1st year CS students)
+:    Introduction to Programming for Engineers (preparation course for 1st year eng. students)
 Spring 2013
 :    Extended Introduction to Computer Science (0368-1105, TA)
 Fall 2012 
@@ -96,7 +101,7 @@ Fall 2011
 
 ## Conferences
 2013
-:    Future: *The 14th Congress of the European Society for Evolutionary Biology* (ESEB) in Lisbon, Portugal, August.
+:    _Upcoming_: *The 14th Congress of the European Society for Evolutionary Biology* (ESEB) in Lisbon, Portugal, August.
 :    ***Gordon Research Conference** on Biological Mechanisms in Evolution* in Stonehill College, Easton, MA, USA, June.
 :    *The 5th Annual SIDEER Graduate Symposium - The Emergence of Design in Nature* in Ben-Gurion University of the Negev, Sede-Boqer Campus, March.
 2012
