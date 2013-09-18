@@ -1,0 +1,35 @@
+## Personal Information
+
+Name
+  ~ Yoav Ram
+Phone
+  ~ +972-54-5383136
+Email
+  ~ yoavram@post.tau.ac.il
+Website
+  ~ [www.yoavram.com](http://www.yoavram.com/)
+Blog
+  ~ [blog.yoavram.com](http://blog.yoavram.com/)
+
+## Education
+
+*   **Ph.D.** 2010 - Ongoing
+
+    Evolutionary Theory Lab, Tel-Aviv University
+
+    -   Advisor: Dr. Lilach Hadany
+    -   Ph.D. proposal title: *The Evolution of Stress-Induced Hypermutation: Causes and Consequences* (approved May 2012)
+
+*   **M.Sc.** 2010-2012 (direct Ph.D. track)
+
+    Theoretical and Computational Biology, Tel-Aviv University
+
+*   **B.Sc.** 2007-2010
+
+    Life-Sciences and Mathematics, *Cum laude*, Tel-Aviv University
+
+## Publications
+
+{% for p in articles %}
+*   [{{ p.attrs['title'][0] }}]({{ p.attrs['url'][0] }}), {{ p.attrs['journal'][0] }} {{ p.attrs['year'][0] }} {% if p.attrs['num_citations'][0] > 0 %}, [{{ p.attrs['num_citations'][0] }} citations]({{ p.attrs['url_citations'][0] }}) {% endif %}
+{% endfor %}
