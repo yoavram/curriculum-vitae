@@ -1,6 +1,6 @@
 % Curriculum Vitae 
 % Yoav Ram
-% September 2013
+% October 2013
 
 ## Personal Information
 
@@ -40,8 +40,9 @@ Blog
 
 ## Presentations
 2013
+:   **Adaptedness, Adaptability and Stress-Induced Mutagenesis** - Poster at *PDEs and Dynamical Systems in Biology* conference in Bar-Ilan University, October 1.
 :   **Adaptedness, Adaptability and Stress-Induced Mutagenesis** - Poster at *ESEB 2013* in Lisbon, Portugal, August 19-24.
-:   **Stress-induced Mmutagenesis and the Evolution of Complex Traits** - Poster at the *Gordon Research Conference on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 2-6.
+:   **Stress-induced Mutagenesis and the Evolution of Complex Traits** - Poster at the *Gordon Research Conference on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 2-6.
 :   **The Role of Stress-Induced Mutation in the Emergence of Complex Adaptations** - Oral presentation at the *5th Anual SIDEER Graduate Symposium*, Ben-Gurion University of the Negev, Sede-Boqer Campus, March 20.
 2012
 :    **Evolutionary Causes and Consequences of Stress-Induced Hypermutation** - Oral presentation at *The 1st Graduate Students' Conference in Genetics, Genomics and Evolution*, Ben-Gurion University of the Negev, September 23. DOI: [10.6084/m9.figshare.96049](http://dx.doi.org/10.6084/m9.figshare.96049).
@@ -60,6 +61,7 @@ Blog
 ## Awards
 
 2013
+:    Fellowship from the *Manna Program in Food Safety and Security* for 2013-14.
 :    Travel award from the *Manna Institute for Plants BioSciences* to *ESEB 2013* in Lisbon, Portugal.
 2012
 :    Research achievements scholarship from the Life-Science faculty, Tel-Aviv University.
@@ -101,6 +103,7 @@ Fall 2011
 
 ## Conferences
 2013
+:    *PDEs and Dynamical Systems in Biology* conference in Bar-Ilan University, October.
 :    *The 14th Congress of the European Society for Evolutionary Biology* (ESEB) in Lisbon, Portugal, August.
 :    ***Gordon Research Conference** on Biological Mechanisms in Evolution* in Stonehill College, Easton, MA, USA, June.
 :    *The 5th Annual SIDEER Graduate Symposium - The Emergence of Design in Nature* in Ben-Gurion University of the Negev, Sede-Boqer Campus, March.
