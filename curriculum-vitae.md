@@ -1,6 +1,6 @@
 % Curriculum Vitae 
 % Yoav Ram
-% October 2013
+% March 2014
 
 ## Personal Information
 
@@ -22,7 +22,7 @@ Blog
     Evolutionary Theory Lab, Tel-Aviv University
 
     -   Advisor: Dr. Lilach Hadany
-    -   Ph.D. proposal title: *The Evolution of Stress-Induced Hypermutation: Causes and Consequences* (approved May 2012)
+    -   Ph.D. proposal title: *The Evolution of Stress-Induced Mutagenesis: Causes and Consequences* (approved May 2012)
 
 *   **M.Sc.** 2010-2012 (direct Ph.D. track)
 
@@ -40,7 +40,11 @@ Blog
 *   **Ram, Y.** and Hadany, L. (2012) The evolution of stress-induced hypermutation in asexual populations. *Evolution*, 66: 2315-2328. DOI: [10.1111/j.1558-5646.2012.01576.x](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2012.01576.x/abstract)
 
 ## Presentations
+2014
+:   **The rate of complex adaptation with and without stress-induced mutagenesis** - Poster at FISEB/ILANIT 2014, Eilat, February
 2013
+:   Seminar presentation at the Pupko Lab at Tel-Aviv University, November 
+:   Seminar presentation at the Philisophy of Biology Group at the Humanities Faculty, Tel-Aviv University, October
 :   **Adaptedness, Adaptability and Stress-Induced Mutagenesis** - Poster at *PDEs and Dynamical Systems in Biology* conference in Bar-Ilan University, October 1.
 :   **Adaptedness, Adaptability and Stress-Induced Mutagenesis** - Poster at *ESEB 2013* in Lisbon, Portugal, August 19-24.
 :   **Stress-induced Mutagenesis and the Evolution of Complex Traits** - Poster at the *Gordon Research Conference on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 2-6.
@@ -103,6 +107,8 @@ Fall 2011
 :    Co-organizing the *BioMath Student Journal Club* at Tel-Aviv University
 
 ## Conferences
+2014
+:    The *Federeation of the Israeli Societies for Experimental Biology (ILANIT)* congress in Eilat, Israel, February.
 2013
 :    *PDEs and Dynamical Systems in Biology* conference in Bar-Ilan University, October.
 :    *The 14th Congress of the European Society for Evolutionary Biology* (ESEB) in Lisbon, Portugal, August.
