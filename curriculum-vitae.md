@@ -1,6 +1,6 @@
 % Curriculum Vitae 
 % Yoav Ram
-% March 2014
+% April 2014
 
 ## Personal Information
 
@@ -41,10 +41,13 @@ Blog
 
 ## Presentations
 2014
-:   **The rate of complex adaptation with and without stress-induced mutagenesis** - Poster at FISEB/ILANIT 2014, Eilat, February
+:   **On the role of stress-induced mutagenesis in evolution** - Poster at ISM (Israel Society for Microbiology) annual meeting, Haifa, April.
+:   **Stress, mutation, evolution, and mathematical models** - Presentation at the Astrophysics student journal club at Tel-Aviv University, March.
+:   **Modeling the evolution of the mutation rate** - Presentation at the Topics in Theoretical and Mathematical Biology Seminar at Tel-Aviv University, March.
+:   **The rate of complex adaptation with and without stress-induced mutagenesis** - Poster at FISEB/ILANIT 2014, Eilat, February.
 2013
-:   Seminar presentation at the Pupko Lab at Tel-Aviv University, November 
-:   Seminar presentation at the Philisophy of Biology Group at the Humanities Faculty, Tel-Aviv University, October
+:   Seminar presentation at the Pupko Lab at Tel-Aviv University, November.
+:   Seminar presentation at the Philisophy of Biology Group at the Humanities Faculty, Tel-Aviv University, October.
 :   **Adaptedness, Adaptability and Stress-Induced Mutagenesis** - Poster at *PDEs and Dynamical Systems in Biology* conference in Bar-Ilan University, October 1.
 :   **Adaptedness, Adaptability and Stress-Induced Mutagenesis** - Poster at *ESEB 2013* in Lisbon, Portugal, August 19-24.
 :   **Stress-induced Mutagenesis and the Evolution of Complex Traits** - Poster at the *Gordon Research Conference on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 2-6.
@@ -108,6 +111,7 @@ Fall 2011
 
 ## Conferences
 2014
+:    Israel Society for Microbiology (ISM) annual meeting in Haifa, April.
 :    The *Federeation of the Israeli Societies for Experimental Biology (ILANIT)* congress in Eilat, Israel, February.
 2013
 :    *PDEs and Dynamical Systems in Biology* conference in Bar-Ilan University, October.
