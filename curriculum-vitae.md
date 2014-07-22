@@ -1,6 +1,6 @@
 % Curriculum Vitae 
 % Yoav Ram
-% May 2014
+% July 2014
 
 ## Personal Information
 
@@ -34,8 +34,9 @@ Blog
 
 ## Publications
 
-*	**Ram, Y.** and Hadany, L. Stress-induced mutagenesis and complex adaptation. *Submitted*.
 *   Geffen, E., Hadany, L., **Ram, Y.**, and Gafny, S. Genetic diversity in edge populations: A complementary view. *Submitted*.
+* **Ram, Y.** and Hadany, L. The probability of improvement in Fisher's geometric model - a probabilistic approach. *Submitted*.
+* **Ram, Y.** and Hadany, L. (2014) Stress-induced mutagenesis and complex adaptation. *Proceeding of the Royal Society B*. *Accepted*.
 *   Gueijman, A., Ayali, A., **Ram, Y.**, and Hadany, L. (2013) Dispersing away from bad environments: The evolution of fitness-associated dispersal (FAD) in homogeneous environments. *BMC Evol. Biol.*, 13:125. DOI: [10.1186/1471-2148-13-125](http://www.biomedcentral.com/1471-2148/13/125/abstract) (OA)
 *   **Ram, Y.** and Hadany, L. (2012) The evolution of stress-induced hypermutation in asexual populations. *Evolution*, 66: 2315-2328. DOI: [10.1111/j.1558-5646.2012.01576.x](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2012.01576.x/abstract)
 
@@ -85,7 +86,8 @@ Blog
 :    The *Amos de-Shalit* Ulpana for excellent students in Life-Sciences at the Weizmann Institute of Science.
 
 ## Peer-Reviews
-
+2014
+:    PLOS ONE 
 2012
 :    Proceeding of the Royal Society B
 2011
@@ -93,6 +95,13 @@ Blog
 
 ## Teaching
 
+Spring 2015
+:    Programming in Python for Life Science Graduate Students (Teacher)
+Fall 2014
+:    Python Programming for Engineers (0509-1820, Teacher)
+Summer 2014
+:    Gentle Introduction to Programming (preparation course for 1st year CS students)
+:    Introduction to Programming for Engineers (preparation course for 1st year eng. students)
 Fall 2013
 :    Python Programming for Engineers (0509-1820, Teacher)
 Summer 2013
