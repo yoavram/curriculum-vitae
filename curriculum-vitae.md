@@ -1,6 +1,6 @@
 % Curriculum Vitae 
 % Yoav Ram
-% July 2014
+% August 2014
 
 ## Personal Information
 
