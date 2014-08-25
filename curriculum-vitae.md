@@ -37,8 +37,14 @@ Blog
 *   Geffen, E., Hadany, L., **Ram, Y.**, and Gafny, S. Genetic diversity in edge populations: A complementary view. *Submitted*.
 *   **Ram, Y.** and Hadany, L. The probability of improvement in Fisher's geometric model - a probabilistic approach. *Submitted*.
 *   **Ram, Y.** and Hadany, L. (2014) Stress-induced mutagenesis and complex adaptation. *Proceeding of the Royal Society B*. 281: 20141025. DOI: [10.1098/rspb.2014.1025](http://dx.doi.org/10.1098/rspb.2014.1025)
-*   Gueijman, A., Ayali, A., **Ram, Y.**, and Hadany, L. (2013) Dispersing away from bad environments: The evolution of fitness-associated dispersal (FAD) in homogeneous environments. *BMC Evol. Biol.*, 13:125. DOI: [10.1186/1471-2148-13-125](http://www.biomedcentral.com/1471-2148/13/125/abstract) (OA)
-*   **Ram, Y.** and Hadany, L. (2012) The evolution of stress-induced hypermutation in asexual populations. *Evolution*, 66: 2315-2328. DOI: [10.1111/j.1558-5646.2012.01576.x](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2012.01576.x/abstract)
+*   Gueijman, A., Ayali, A., **Ram, Y.**, and Hadany, L. (2013) Dispersing away from bad environments: The evolution of fitness-associated dispersal (FAD) in homogeneous environments. *BMC Evol. Biol.*, 13:125. DOI: [10.1186/1471-2148-13-125](http://dx.doi.org/10.1186/1471-2148-13-125) (OA)
+*   **Ram, Y.** and Hadany, L. (2012) The evolution of stress-induced hypermutation in asexual populations. *Evolution*, 66: 2315-2328. DOI: [10.1111/j.1558-5646.2012.01576.x](http://dx.doi.org/10.1111/j.1558-5646.2012.01576.x)
+
+## Software & Datasets
+
+*   **Ram Y.**, Hadany L. (2014) Data from: Stress-induced mutagenesis and complex adaptation. *Dryad Digital Repository*. DOI: [10.5061/dryad.3066j](http://dx.doi.org/10.5061/dryad.3066j).
+*   **Ram, Y.**, Hadany, L. (2014) proevolution simulation: Version Charles. *ZENODO*.  DOI: [10.5281/zenodo.11401](http://dx.doi.org/10.5281/zenodo.11401).
+*   **Ram, Y.**, Guiejman, A. and Hadany L. (2014). proevolution simulation: Version Dobzhansky. *ZENODO*. DOI: [10.5281/zenodo.11400](http://dx.doi.org/10.5281/zenodo.11400).
 
 ## Presentations
 2014
@@ -96,7 +102,7 @@ Blog
 ## Teaching
 
 Spring 2015
-:    Programming in Python for Life Science Graduate Students (Teacher)
+:    Python Programming for Biologists (0411-3122,Teacher)
 Fall 2014
 :    Python Programming for Engineers (0509-1820, Teacher)
 Summer 2014
