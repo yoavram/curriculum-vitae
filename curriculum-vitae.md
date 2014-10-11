@@ -1,17 +1,21 @@
 % Curriculum Vitae 
 % Yoav Ram
-% August 2014
+% October 2014
 
 ## Personal Information
 
 Name
   ~ Yoav Ram
+
 Phone
   ~ +972-54-5383136
+
 Email
   ~ yoavram@post.tau.ac.il
+
 Website
   ~ [www.yoavram.com](http://www.yoavram.com/)
+  
 Blog
   ~ [blog.yoavram.com](http://blog.yoavram.com/)
 
@@ -35,7 +39,7 @@ Blog
 ## Publications
 
 *   Geffen, E., Hadany, L., **Ram, Y.**, and Gafny, S. Genetic diversity in edge populations: A complementary view. *Submitted*.
-*   **Ram, Y.** and Hadany, L. The probability of improvement in Fisher's geometric model - a probabilistic approach. *Submitted*.
+*   **Ram, Y.** and Hadany, L. (2014) The probability of improvement in Fisher's geometric model: a probabilistic approach. *Theoretical Population Biology, in print*.
 *   **Ram, Y.** and Hadany, L. (2014) Stress-induced mutagenesis and complex adaptation. *Proceeding of the Royal Society B*. 281: 20141025. DOI: [10.1098/rspb.2014.1025](http://dx.doi.org/10.1098/rspb.2014.1025)
 *   Gueijman, A., Ayali, A., **Ram, Y.**, and Hadany, L. (2013) Dispersing away from bad environments: The evolution of fitness-associated dispersal (FAD) in homogeneous environments. *BMC Evol. Biol.*, 13:125. DOI: [10.1186/1471-2148-13-125](http://dx.doi.org/10.1186/1471-2148-13-125) (OA)
 *   **Ram, Y.** and Hadany, L. (2012) The evolution of stress-induced hypermutation in asexual populations. *Evolution*, 66: 2315-2328. DOI: [10.1111/j.1558-5646.2012.01576.x](http://dx.doi.org/10.1111/j.1558-5646.2012.01576.x)
@@ -102,7 +106,7 @@ Blog
 ## Teaching
 
 Spring 2015
-:    Python Programming for Biologists (0411-3122,Teacher)
+:    Python Programming for Biologists (0411-3122, Teacher)
 Fall 2014
 :    Python Programming for Engineers (0509-1820, Teacher)
 Summer 2014
