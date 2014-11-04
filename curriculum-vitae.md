@@ -1,6 +1,6 @@
 % Curriculum Vitae 
 % Yoav Ram
-% October 2014
+% November 2014
 
 ## Personal Information
 
@@ -83,6 +83,8 @@ Blog
 :    **The Evolution of Stress-Induced Hypermutation** - Poster at *MMSB 2010* in Tel-Aviv, Israel – won the *Best poster award*.
 
 ## Awards
+2014
+:    Research achievements scholarship from the Life-Science faculty, Tel-Aviv University.
 
 2013
 :    Fellowship from the *Manna Program in Food Safety and Security* for 2013-14.
