@@ -1,6 +1,6 @@
 % Curriculum Vitae 
 % Yoav Ram
-% November 2014
+% December 2014
 
 ## Personal Information
 
@@ -84,6 +84,7 @@ Blog
 
 ## Awards
 2014
+:    The Ministry of Science and Technology International Education Scholarship to travel to the 2015 *Gordon Research Conference on Biological Mechanisms in Evolution*.
 :    Research achievements scholarship from the Life-Science faculty, Tel-Aviv University.
 
 2013
