@@ -1,6 +1,6 @@
 % Curriculum Vitae 
 % Yoav Ram
-% December 2014
+% March 2015
 
 ## Personal Information
 
@@ -14,14 +14,11 @@ Email
   ~ yoavram@post.tau.ac.il
 
 Website
-  ~ [www.yoavram.com](http://www.yoavram.com/)
-  
-Blog
-  ~ [blog.yoavram.com](http://blog.yoavram.com/)
+  ~ [www.yoavram.com](http://www.yoavram.com/) / [blog.yoavram.com](http://blog.yoavram.com/)
 
 ## Education
 
-*   **Ph.D.** 2010 - Ongoing
+*   **Ph.D.** 2010 - 2016 (planned)
 
     Evolutionary Theory Lab, Tel-Aviv University
 
@@ -51,36 +48,43 @@ Blog
 *   **Ram, Y.**, Guiejman, A. and Hadany L. (2014). proevolution simulation: Version Dobzhansky. *ZENODO*. DOI: [10.5281/zenodo.11400](http://dx.doi.org/10.5281/zenodo.11400).
 
 ## Presentations
+Upcoming
+:   *Stress-induced mutagenesis & complex adaptation* - **Short oral presentation** at the Two2Many Systems Biology Conference, Weizmann Institute, March 12.
+:   *Models of Mutation Rate Evolution* - Oral presentation at the Quantitivate and Evolutionary Biology Seminar, Tel-Aviv University, March 25.
+:   *Using experimental growth curves and simulated competition assays to infer selection coefficients* - Poster at **ESEB 2015** in Lausanne, Switzerland, August 10-14.
+:   *Using experimental growth curves and simulated competition assays to infer selection coefficients* - Poster at the ***Gordon Research Conference** on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 28 - July 3.
+
+2015
+:   *On the role of stress-induced mutagenesis in evolution* - Poster at the Israeli Genetics Society annual meeting, Weizmann Institute, February.
+
 2014
-:   **On the role of stress-induced mutagenesis in evolution** - Poster at ISM (Israel Society for Microbiology) annual meeting, Haifa, April.
-:   **Stress, mutation, evolution, and mathematical models** - Presentation at the Astrophysics student journal club at Tel-Aviv University, March.
-:   **Modeling the evolution of the mutation rate** - Presentation at the Topics in Theoretical and Mathematical Biology Seminar at Tel-Aviv University, March.
-:   **The rate of complex adaptation with and without stress-induced mutagenesis** - Poster at FISEB/ILANIT 2014, Eilat, February.
+:   *On the role of stress-induced mutagenesis in evolution* - Poster at ISM (Israel Society for Microbiology) annual meeting, Haifa, April.
+:   *Stress, mutation, evolution, and mathematical models* - Presentation at the Astrophysics student journal club at Tel-Aviv University, March.
+:   *Modeling the evolution of the mutation rate* - Presentation at the Topics in Theoretical and Mathematical Biology Seminar at Tel-Aviv University, March.
+:   *The rate of complex adaptation with and without stress-induced mutagenesis* - Poster at FISEB/ILANIT 2014, Eilat, February.
 
 2013
 :   Seminar presentation at the Pupko Lab at Tel-Aviv University, November.
 :   Seminar presentation at the Philisophy of Biology Group at the Humanities Faculty, Tel-Aviv University, October.
-:   **Adaptedness, Adaptability and Stress-Induced Mutagenesis** - Poster at *PDEs and Dynamical Systems in Biology* conference in Bar-Ilan University, October 1.
-:   **Adaptedness, Adaptability and Stress-Induced Mutagenesis** - Poster at *ESEB 2013* in Lisbon, Portugal, August 19-24.
-:   **Stress-induced Mutagenesis and the Evolution of Complex Traits** - Poster at the *Gordon Research Conference on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 2-6.
-:   **The Role of Stress-Induced Mutation in the Emergence of Complex Adaptations** - Oral presentation at the *5th Anual SIDEER Graduate Symposium*, Ben-Gurion University of the Negev, Sede-Boqer Campus, March 20.
+:   *Adaptedness, Adaptability and Stress-Induced Mutagenesis* - Poster at *PDEs and Dynamical Systems in Biology* conference in Bar-Ilan University, October 1.
+:   *Adaptedness, Adaptability and Stress-Induced Mutagenesis* - Poster at **ESEB 2013** in Lisbon, Portugal, August 19-24.
+:   *Stress-induced Mutagenesis and the Evolution of Complex Traits* - Poster at the ***Gordon Research Conference** on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 2-6.
+:   *The Role of Stress-Induced Mutation in the Emergence of Complex Adaptations* - **Oral presentation** at the *5th Anual SIDEER Graduate Symposium*, Ben-Gurion University of the Negev, Sede-Boqer Campus, March 20.
 
 2012
-:    **Evolutionary Causes and Consequences of Stress-Induced Hypermutation** - Oral presentation at *The 1st Graduate Students' Conference in Genetics, Genomics and Evolution*, Ben-Gurion University of the Negev, September 23. DOI: [10.6084/m9.figshare.96049](http://dx.doi.org/10.6084/m9.figshare.96049).
-
-2012
+:    *Evolutionary Causes and Consequences of Stress-Induced Hypermutation* - **Oral presentation** at *The 1st Graduate Students' Conference in Genetics, Genomics and Evolution*, Ben-Gurion University of the Negev, September 23. DOI: [10.6084/m9.figshare.96049](http://dx.doi.org/10.6084/m9.figshare.96049).
 :    Seminar presentation at the Pilpel Lab at the Weizmann Institute of Science, June.
-:    **The Evolution of Stress-Induced Mutagenesis in Finite and Infinite Populations** - Oral presentation at *PopGroup 45* in Nottingham, UK, January. DOI: [10.6084/m9.figshare.95939](http://dx.doi.org/10.6084/m9.figshare.96049).
+:    *The Evolution of Stress-Induced Mutagenesis in Finite and Infinite Populations* - **Oral presentation at *PopGroup 45*** in Nottingham, UK, January. DOI: [10.6084/m9.figshare.95939](http://dx.doi.org/10.6084/m9.figshare.96049).
 
 2011
 :    Seminar presentation at the Eldar Lab at Tel-Aviv University, December.
 :    Seminar presentation at the Department of Molecular Biology and Plants M.Sc. Seminar at Tel-Aviv University, November.
-:    **Rise and Fall of Mutator Bacteria** - Seminar presentation at the *BioMath Student Journal Club*, Tel-Aviv University, May. DOI: [10.6084/m9.figshare.95940](http://dx.doi.org/10.6084/m9.figshare.95940).
-:    **The Evolution of Stress-Induced Hypermutation** - Poster at *ESEB 2011* in Tubingen, Germany, August. See: [F1000 Posters 2011, 2: 1484](http://f1000.com/posters/browse/summary/2211).
+:    *Rise and Fall of Mutator Bacteria* - Seminar presentation at the *BioMath Student Journal Club*, Tel-Aviv University, May. DOI: [10.6084/m9.figshare.95940](http://dx.doi.org/10.6084/m9.figshare.95940).
+:    *The Evolution of Stress-Induced Hypermutation* - Poster at **ESEB 2011** in Tubingen, Germany, August. See: [F1000 Posters 2011, 2: 1484](http://f1000.com/posters/browse/summary/2211).
 
 2010
-:    **The Evolution of Stress-Induced Hypermutation** - Poster at *SMBE 2010* in Lyon, France, July.
-:    **The Evolution of Stress-Induced Hypermutation** - Poster at *MMSB 2010* in Tel-Aviv, Israel – won the *Best poster award*.
+:    *The Evolution of Stress-Induced Hypermutation* - Poster at **SMBE 20108** in Lyon, France, July.
+:    *The Evolution of Stress-Induced Hypermutation* - Poster at *MMSB 2010* in Tel-Aviv, Israel – won the **Best poster award**.
 
 ## Awards
 2014
@@ -108,6 +112,8 @@ Blog
 :    The *Amos de-Shalit* Ulpana for excellent students in Life-Sciences at the Weizmann Institute of Science.
 
 ## Peer-Reviews
+2015
+:    Theoretical Population Biology
 2014
 :    PLOS ONE 
 
@@ -120,7 +126,7 @@ Blog
 ## Teaching
 
 Spring 2015
-:    Python Programming for Biologists (0411-3122, Teacher)
+:    Python Programming for Biologists (0411-3122, Teacher) - new graduate students course
 
 Fall 2014
 :    Python Programming for Engineers (0509-1820, Teacher)
@@ -152,6 +158,14 @@ Fall 2011
 :    Co-organizing the *BioMath Student Journal Club* at Tel-Aviv University
 
 ## Conferences
+
+2015
+:    *The 15th Congress of the European Society for Evolutionary Biology* (ESEB) in Lausanne, Switzerland, August.
+:    ***Gordon Research Conference** on Biological Mechanisms in Evolution* in Stonehill College, Easton, MA, USA, June.
+:    Two2Many Systems Biology Conference, Weizmann Institute, March.
+:    Israeli Genetics Society annual meeting in Weizmann Institute, February.
+:    Israel Society for Microbiology (ISM) annual meeting in Bar-Ilan, February.
+
 2014
 :    Israel Society for Microbiology (ISM) annual meeting in Haifa, April.
 :    The *Federeation of the Israeli Societies for Experimental Biology (ILANIT)* congress in Eilat, Israel, February.
