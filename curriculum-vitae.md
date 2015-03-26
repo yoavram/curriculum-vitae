@@ -49,12 +49,12 @@ Website
 
 ## Presentations
 Upcoming
-:   *Stress-induced mutagenesis & complex adaptation* - **Short oral presentation** at the Two2Many Systems Biology Conference, Weizmann Institute, March 12.
-:   *Models of Mutation Rate Evolution* - Oral presentation at the Quantitivate and Evolutionary Biology Seminar, Tel-Aviv University, March 25.
-:   *Using experimental growth curves and simulated competition assays to infer selection coefficients* - Poster at **ESEB 2015** in Lausanne, Switzerland, August 10-14.
-:   *Using experimental growth curves and simulated competition assays to infer selection coefficients* - Poster at the ***Gordon Research Conference** on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 28 - July 3.
+:   Poster at **ESEB 2015** in Lausanne, Switzerland, August 10-14.
+:   Poster at the ***Gordon Research Conference** on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 28 - July 3.
 
 2015
+:   *Using experimental growth curves and simulated competition assays to infer selection coefficients* - Oral presentation at the Quantitivate and Evolutionary Biology Seminar, Tel-Aviv University, March 25.
+:   *Stress-induced mutagenesis & complex adaptation* - **Short oral presentation** at the Two2Many Systems Biology Conference, Weizmann Institute, March 12.
 :   *On the role of stress-induced mutagenesis in evolution* - Poster at the Israeli Genetics Society annual meeting, Weizmann Institute, February.
 
 2014
