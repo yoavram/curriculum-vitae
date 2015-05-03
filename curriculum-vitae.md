@@ -1,4 +1,4 @@
-% Curriculum Vitae 
+% Curriculum Vitae
 % Yoav Ram
 % March 2015
 
@@ -23,7 +23,7 @@ Website
     Evolutionary Theory Lab, Tel-Aviv University
 
     -   Advisor: Dr. Lilach Hadany
-    -   Ph.D. proposal title: *The Evolution of Stress-Induced Mutagenesis: Causes and Consequences* (approved May 2012)
+    -   Ph.D. title: *The Evolution of Stress-Induced Mutagenesis: Causes and Consequences* (approved May 2012)
 
 *   **M.Sc.** 2010-2012 (direct Ph.D. track)
 
@@ -49,12 +49,11 @@ Website
 
 ## Presentations
 Upcoming
-:   Poster at **ESEB 2015** in Lausanne, Switzerland, August 10-14.
-:   Poster at the ***Gordon Research Conference** on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 28 - July 3.
+:   Poster at the **Gordon Research Conference** *on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 28 - July 3.
 
 2015
-:   *Using experimental growth curves and simulated competition assays to infer selection coefficients* - Oral presentation at the Quantitivate and Evolutionary Biology Seminar, Tel-Aviv University, March 25.
-:   *Stress-induced mutagenesis & complex adaptation* - **Short oral presentation** at the Two2Many Systems Biology Conference, Weizmann Institute, March 12.
+:   *Stress-induced mutagenesis & complex adaptation* - **Short oral presentation** at the Two2Many Systems Biology Conference, Weizmann Institute, March.
+:   Oral presentation at the Quantitivate and Evolutionary Biology Seminar, Tel-Aviv University, March.
 :   *On the role of stress-induced mutagenesis in evolution* - Poster at the Israeli Genetics Society annual meeting, Weizmann Institute, February.
 
 2014
@@ -68,7 +67,7 @@ Upcoming
 :   Seminar presentation at the Philisophy of Biology Group at the Humanities Faculty, Tel-Aviv University, October.
 :   *Adaptedness, Adaptability and Stress-Induced Mutagenesis* - Poster at *PDEs and Dynamical Systems in Biology* conference in Bar-Ilan University, October 1.
 :   *Adaptedness, Adaptability and Stress-Induced Mutagenesis* - Poster at **ESEB 2013** in Lisbon, Portugal, August 19-24.
-:   *Stress-induced Mutagenesis and the Evolution of Complex Traits* - Poster at the ***Gordon Research Conference** on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 2-6.
+:   *Stress-induced Mutagenesis and the Evolution of Complex Traits* - Poster at the **Gordon Research Conference** *on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 2-6.
 :   *The Role of Stress-Induced Mutation in the Emergence of Complex Adaptations* - **Oral presentation** at the *5th Anual SIDEER Graduate Symposium*, Ben-Gurion University of the Negev, Sede-Boqer Campus, March 20.
 
 2012
@@ -88,7 +87,7 @@ Upcoming
 
 ## Awards
 2014
-:    The Ministry of Science and Technology International Education Scholarship to travel to the 2015 *Gordon Research Conference on Biological Mechanisms in Evolution*.
+:    The Ministry of Science and Technology International Education Scholarship to travel to the 2015 **Gordon Research Conference** *on Biological Mechanisms in Evolution*.
 :    Research achievements scholarship from the Life-Science faculty, Tel-Aviv University.
 
 2013
@@ -114,8 +113,9 @@ Upcoming
 ## Peer-Reviews
 2015
 :    Theoretical Population Biology
+
 2014
-:    PLOS ONE 
+:    PLOS ONE
 
 2012
 :    Proceeding of the Royal Society B
@@ -145,13 +145,13 @@ Summer 2013
 Spring 2013
 :    Extended Introduction to Computer Science (0368-1105, TA)
 
-Fall 2012 
+Fall 2012
 :    Python Programming for Engineers (0509-1820, TA)
 
 Spring 2012
 :    Evolution (0455-2536, TA)
 
-Fall 2011 
+Fall 2011
 :    Python Programming for Engineers (0509-1821, TA)
 
 2011-2014
@@ -160,20 +160,19 @@ Fall 2011
 ## Conferences
 
 2015
-:    *The 15th Congress of the European Society for Evolutionary Biology* (ESEB) in Lausanne, Switzerland, August.
-:    ***Gordon Research Conference** on Biological Mechanisms in Evolution* in Stonehill College, Easton, MA, USA, June.
+:    **Gordon Research Conference** *on Biological Mechanisms in Evolution* in Stonehill College, Easton, MA, USA, June.
 :    Two2Many Systems Biology Conference, Weizmann Institute, March.
 :    Israeli Genetics Society annual meeting in Weizmann Institute, February.
-:    Israel Society for Microbiology (ISM) annual meeting in Bar-Ilan, February.
+:    Israeli Society for Microbiology (ISM) annual meeting in Bar-Ilan, February.
 
 2014
-:    Israel Society for Microbiology (ISM) annual meeting in Haifa, April.
+:    Israeli Society for Microbiology (ISM) annual meeting in Haifa, April.
 :    The *Federeation of the Israeli Societies for Experimental Biology (ILANIT)* congress in Eilat, Israel, February.
 
 2013
 :    *PDEs and Dynamical Systems in Biology* conference in Bar-Ilan University, October.
 :    *The 14th Congress of the European Society for Evolutionary Biology* (ESEB) in Lisbon, Portugal, August.
-:    ***Gordon Research Conference** on Biological Mechanisms in Evolution* in Stonehill College, Easton, MA, USA, June.
+:    **Gordon Research Conference** *on Biological Mechanisms in Evolution* in Stonehill College, Easton, MA, USA, June.
 :    *The 5th Annual SIDEER Graduate Symposium - The Emergence of Design in Nature* in Ben-Gurion University of the Negev, Sede-Boqer Campus, March.
 
 2012
