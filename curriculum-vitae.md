@@ -1,6 +1,6 @@
 % Curriculum Vitae
 % Yoav Ram
-% March 2015
+% May 2015
 
 ## Personal Information
 
@@ -50,6 +50,8 @@ Website
 ## Presentations
 Upcoming
 :   Poster at the **Gordon Research Conference** *on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 28 - July 3.
+:	Poster at the *Forecasting Evolution?* SFB 680 conference in Lisbon, Portugal, July 8 - 11.
+
 
 2015
 :   *Stress-induced mutagenesis & complex adaptation* - **Short oral presentation** at the Two2Many Systems Biology Conference, Weizmann Institute, March.
@@ -127,6 +129,7 @@ Upcoming
 
 Spring 2015
 :    Python Programming for Biologists (0411-3122, Teacher) - new graduate students course
+:	 Evolution (0455-2536, TA)
 
 Fall 2014
 :    Python Programming for Engineers (0509-1820, Teacher)
@@ -161,7 +164,8 @@ Fall 2011
 
 2015
 :    **Gordon Research Conference** *on Biological Mechanisms in Evolution* in Stonehill College, Easton, MA, USA, June.
-:    Two2Many Systems Biology Conference, Weizmann Institute, March.
+:	 *Forecasting Evolution?* SFB 680 conference in Lisbon, Portugal, July.
+:    *Two2Many* Systems Biology Conference, Weizmann Institute, March.
 :    Israeli Genetics Society annual meeting in Weizmann Institute, February.
 :    Israeli Society for Microbiology (ISM) annual meeting in Bar-Ilan, February.
 
