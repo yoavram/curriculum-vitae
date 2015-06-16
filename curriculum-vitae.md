@@ -1,6 +1,6 @@
 % Curriculum Vitae
 % Yoav Ram
-% May 2015
+% June 2015
 
 ## Personal Information
 
@@ -52,7 +52,6 @@ Upcoming
 :   Poster at the **Gordon Research Conference** *on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 28 - July 3.
 :	Poster at the *Forecasting Evolution?* SFB 680 conference in Lisbon, Portugal, July 8 - 11.
 
-
 2015
 :   *Stress-induced mutagenesis & complex adaptation* - **Short oral presentation** at the Two2Many Systems Biology Conference, Weizmann Institute, March.
 :   Oral presentation at the Quantitivate and Evolutionary Biology Seminar, Tel-Aviv University, March.
@@ -89,6 +88,7 @@ Upcoming
 
 ## Awards
 2015
+:	 The *Anat Karuskopf Fund Travel Award* to *Forecasting Evolution?* in Lisbon, Portugal.
 :    Travel award from the *Manna Institute for Plants BioSciences* to *Forecasting Evolution?* in Lisbon, Portugal.
 
 2014
