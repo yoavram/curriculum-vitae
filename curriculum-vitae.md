@@ -1,6 +1,6 @@
 % Curriculum Vitae
 % Yoav Ram
-% June 2015
+% July 2015
 
 ## Personal Information
 
@@ -20,10 +20,9 @@ Website
 
 *   **Ph.D.** 2010 - 2016 (planned)
 
-    Evolutionary Theory Lab, Tel-Aviv University
-
-    -   Advisor: Dr. Lilach Hadany
-    -   Ph.D. title: *The Evolution of Stress-Induced Mutagenesis: Causes and Consequences* (approved May 2012)
+    * *Institution:* Tel-Aviv University
+    * *Advisor:* Prof. Lilach Hadany
+    * *Ph.D. title:* The Evolution of Stress-Induced Mutagenesis: Causes and Consequences (approved May 2012)
 
 *   **M.Sc.** 2010-2012 (direct Ph.D. track)
 
@@ -48,11 +47,11 @@ Website
 *   **Ram, Y.**, Guiejman, A. and Hadany L. (2014). proevolution simulation: Version Dobzhansky. *ZENODO*. DOI: [10.5281/zenodo.11400](http://dx.doi.org/10.5281/zenodo.11400).
 
 ## Presentations
-Upcoming
-:   Poster at the **Gordon Research Conference** *on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 28 - July 3.
-:	Poster at the *Forecasting Evolution?* SFB 680 conference in Lisbon, Portugal, July 8 - 11.
 
 2015
+:   **Oral presentation** at the **Gordon Research Conference** *on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 28 - July 3.
+:	Poster at the *Forecasting Evolution?* SFB 680 conference in Lisbon, Portugal, July 8 - 11.
+:	*The Population Genetics of Stress-Induced Mutation* - seminar at the IST, Austria, June 25.
 :   *Stress-induced mutagenesis & complex adaptation* - **Short oral presentation** at the Two2Many Systems Biology Conference, Weizmann Institute, March.
 :   Oral presentation at the Quantitivate and Evolutionary Biology Seminar, Tel-Aviv University, March.
 :   *On the role of stress-induced mutagenesis in evolution* - Poster at the Israeli Genetics Society annual meeting, Weizmann Institute, February.
