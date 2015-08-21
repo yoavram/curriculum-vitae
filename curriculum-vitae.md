@@ -1,6 +1,6 @@
 % Curriculum Vitae
 % Yoav Ram
-% July 2015
+% August 2015
 
 ## Personal Information
 
@@ -87,6 +87,7 @@ Website
 
 ## Awards
 2015
+:	 The *Israel Society for Microbiology Travel Award* to *Forecasting Evolution?* in Lisbon, Portugal.
 :	 The *Anat Karuskopf Fund Travel Award* to *Forecasting Evolution?* in Lisbon, Portugal.
 :    Travel award from the *Manna Institute for Plants BioSciences* to *Forecasting Evolution?* in Lisbon, Portugal.
 
