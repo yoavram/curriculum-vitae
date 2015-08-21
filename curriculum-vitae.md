@@ -102,7 +102,7 @@ Website
 2012
 :    Research achievements scholarship from the Life-Science faculty, Tel-Aviv University.
 :    Registration and accommodation waiver (sponsored by Cambridge University Press) for *PopGroup45* in Nottingham, UK.
-:    Crowd-funded travel expanses for *PopGroup 45* via *The #SciFund Challenge*.
+:    Crowd-funded travel expenses for *PopGroup 45* via *The #SciFund Challenge*.
 
 2011
 :    SSE International Travel Award to *ESEB 2011* in Tubingen, Germany.
