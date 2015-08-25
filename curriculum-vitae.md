@@ -30,7 +30,7 @@ Website
 
 *   **B.Sc.** 2007-2010
 
-    Life-Sciences and Mathematics *magna cum laude*, Tel-Aviv University
+    Biology and Mathematics *magna cum laude*, Tel-Aviv University
 
 ## Publications
 
