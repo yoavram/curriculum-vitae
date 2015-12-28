@@ -1,6 +1,6 @@
 % Curriculum Vitae
 % Yoav Ram
-% August 2015
+% December 2015
 
 ## Personal Information
 
@@ -49,6 +49,7 @@ Website
 ## Presentations
 
 2015
+:	Poster at the *first Pearl Seiden International meeting in Life Sciences*, Technion, Haifa, Israel, December 9 - 10.
 :   **Oral presentation** at the **Gordon Research Conference** *on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 28 - July 3.
 :	Poster at the *Forecasting Evolution?* SFB 680 conference in Lisbon, Portugal, July 8 - 11.
 :	*The Population Genetics of Stress-Induced Mutation* - seminar at the IST, Austria, June 25.
@@ -167,6 +168,7 @@ Fall 2011
 ## Conferences
 
 2015
+:	 The *first Pearl Seiden International meeting in Life Sciences*, Technion, Haifa, Israel, December.
 :    **Gordon Research Conference** *on Biological Mechanisms in Evolution* in Stonehill College, Easton, MA, USA, June.
 :	 *Forecasting Evolution?* SFB 680 conference in Lisbon, Portugal, July.
 :    *Two2Many* Systems Biology Conference, Weizmann Institute, March.
