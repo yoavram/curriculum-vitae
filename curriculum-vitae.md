@@ -1,6 +1,6 @@
 % Curriculum Vitae
 % Yoav Ram
-% December 2015
+% January 2016
 
 ## Personal Information
 
@@ -48,6 +48,9 @@ Website
 
 ## Presentations
 
+2016
+:	*The Population Genetics of Stress-Induced Mutation* - seminar at the IGC, Portugal, January 14.
+
 2015
 :	Poster at the *first Pearl Seiden International meeting in Life Sciences*, Technion, Haifa, Israel, December 9 - 10.
 :   **Oral presentation** at the **Gordon Research Conference** *on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 28 - July 3.
@@ -87,6 +90,8 @@ Website
 :    *The Evolution of Stress-Induced Hypermutation* - Poster at *MMSB 2010* in Tel-Aviv, Israel – won the **Best poster award**.
 
 ## Awards
+2016
+:    Dean’s Award for Excellence in Teaching at the Faculty of Engineering, Tel-Aviv University.
 2015
 :	 The *Israel Society for Microbiology Travel Award* to *Forecasting Evolution?* in Lisbon, Portugal.
 :	 The *Anat Karuskopf Fund Travel Award* to *Forecasting Evolution?* in Lisbon, Portugal.
@@ -137,7 +142,7 @@ Spring 2015
 :	 Evolution (0455-2536, TA)
 
 Fall 2014
-:    Python Programming for Engineers (0509-1820, Teacher)
+:    Python Programming for Engineers (0509-1820, Teacher) - received Dean’s Award for Excellence in Teaching
 
 Summer 2014
 :    Gentle Introduction to Programming (preparation course for 1st year CS students)
