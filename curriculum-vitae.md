@@ -1,6 +1,6 @@
 % Curriculum Vitae
 % Yoav Ram
-% January 2016
+% March 2016
 
 ## Personal Information
 
@@ -18,11 +18,12 @@ Website
 
 ## Education
 
-*   **Ph.D.** 2010 - 2016 (planned)
+*   **Ph.D.** 2010 - 2016
 
     * *Institution:* Tel-Aviv University
     * *Advisor:* Prof. Lilach Hadany
-    * *Ph.D. title:* The Evolution of Stress-Induced Mutagenesis: Causes and Consequences (approved May 2012)
+    * *Ph.D. title:* The Evolution of Stress-Induced Mutagenesis: Causes and Consequences
+    * Submitted February 2016
 
 *   **M.Sc.** 2010-2012 (direct Ph.D. track)
 
@@ -34,11 +35,11 @@ Website
 
 ## Publications
 
-*   Geffen, E., Hadany, L., **Ram, Y.**, and Gafny, S. Genetic diversity in edge populations: A complementary view. *Submitted*.
 *   **Ram, Y.** and Hadany, L. (2015) The probability of improvement in Fisher's geometric model: a probabilistic approach. *Theoretical Population Biology*, 99: 1-6. DOI: [10.1016/j.tpb.2014.10.004](http://dx.doi.org/10.1016/j.tpb.2014.10.004)
 *   **Ram, Y.** and Hadany, L. (2014) Stress-induced mutagenesis and complex adaptation. *Proceeding of the Royal Society B*. 281: 20141025. DOI: [10.1098/rspb.2014.1025](http://dx.doi.org/10.1098/rspb.2014.1025)
 *   Gueijman, A., Ayali, A., **Ram, Y.**, and Hadany, L. (2013) Dispersing away from bad environments: The evolution of fitness-associated dispersal (FAD) in homogeneous environments. *BMC Evol. Biol.*, 13:125. DOI: [10.1186/1471-2148-13-125](http://dx.doi.org/10.1186/1471-2148-13-125) (OA)
 *   **Ram, Y.** and Hadany, L. (2012) The evolution of stress-induced hypermutation in asexual populations. *Evolution*, 66: 2315-2328. DOI: [10.1111/j.1558-5646.2012.01576.x](http://dx.doi.org/10.1111/j.1558-5646.2012.01576.x)
+*   Geffen, E., Hadany, L., **Ram, Y.**, and Gafny, S. Genetic diversity in edge populations: A complementary view. *Submitted*.
 
 ## Software & Datasets
 
@@ -49,6 +50,7 @@ Website
 ## Presentations
 
 2016
+:   *Microbial Growth in a Mixed Culture* - Poster at ISM (Israel Society for Microbiology) annual meeting in Bar-Ilan, February 17-18.
 :	*The Population Genetics of Stress-Induced Mutation* - seminar at the IGC, Portugal, January 14.
 
 2015
@@ -90,8 +92,10 @@ Website
 :    *The Evolution of Stress-Induced Hypermutation* - Poster at *MMSB 2010* in Tel-Aviv, Israel – won the **Best poster award**.
 
 ## Awards
+
 2016
 :    Dean’s Award for Excellence in Teaching at the Faculty of Engineering, Tel-Aviv University.
+
 2015
 :	 The *Israel Society for Microbiology Travel Award* to *Forecasting Evolution?* in Lisbon, Portugal.
 :	 The *Anat Karuskopf Fund Travel Award* to *Forecasting Evolution?* in Lisbon, Portugal.
@@ -122,6 +126,10 @@ Website
 :    The *Amos de-Shalit* Ulpana for excellent students in Life-Sciences at the Weizmann Institute of Science.
 
 ## Peer-Reviews
+
+2016
+:	 ReScience
+
 2015
 :    Theoretical Population Biology
 :	 Evolution
@@ -171,6 +179,9 @@ Fall 2011
 :    Co-organizing the *BioMath Student Journal Club* at Tel-Aviv University
 
 ## Conferences
+
+2016
+:    Israeli Society for Microbiology (ISM) annual meeting in Bar-Ilan, February.
 
 2015
 :	 The *first Pearl Seiden International meeting in Life Sciences*, Technion, Haifa, Israel, December.
