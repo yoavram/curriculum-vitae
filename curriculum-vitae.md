@@ -1,6 +1,6 @@
 % Curriculum Vitae
 % Yoav Ram
-% March 2016
+% June 2016
 
 ## Personal Information
 
@@ -18,6 +18,8 @@ Website
 
 ## Education
 
+*   **Postdoctoral fellow**, Hadany lab, Tel-Aviv University
+
 *   **Ph.D.** 2010 - 2016
 
     * *Institution:* Tel-Aviv University
@@ -34,15 +36,16 @@ Website
     Biology and Mathematics *magna cum laude*, Tel-Aviv University
 
 ## Publications
-
 *   **Ram, Y.** and Hadany, L. (2015) The probability of improvement in Fisher's geometric model: a probabilistic approach. *Theoretical Population Biology*, 99: 1-6. DOI: [10.1016/j.tpb.2014.10.004](http://dx.doi.org/10.1016/j.tpb.2014.10.004)
 *   **Ram, Y.** and Hadany, L. (2014) Stress-induced mutagenesis and complex adaptation. *Proceeding of the Royal Society B*. 281: 20141025. DOI: [10.1098/rspb.2014.1025](http://dx.doi.org/10.1098/rspb.2014.1025)
 *   Gueijman, A., Ayali, A., **Ram, Y.**, and Hadany, L. (2013) Dispersing away from bad environments: The evolution of fitness-associated dispersal (FAD) in homogeneous environments. *BMC Evol. Biol.*, 13:125. DOI: [10.1186/1471-2148-13-125](http://dx.doi.org/10.1186/1471-2148-13-125) (OA)
 *   **Ram, Y.** and Hadany, L. (2012) The evolution of stress-induced hypermutation in asexual populations. *Evolution*, 66: 2315-2328. DOI: [10.1111/j.1558-5646.2012.01576.x](http://dx.doi.org/10.1111/j.1558-5646.2012.01576.x)
+
+### In progress
+*   **Ram, Y.**, and Hadany, L. Condition-dependent sex: who does it, when, and why?. *Submitted*.
 *   Geffen, E., Hadany, L., **Ram, Y.**, and Gafny, S. Genetic diversity in edge populations: A complementary view. *Submitted*.
 
 ## Software & Datasets
-
 *   **Ram Y.**, Hadany L. (2014) Data from: Stress-induced mutagenesis and complex adaptation. *Dryad Digital Repository*. DOI: [10.5061/dryad.3066j](http://dx.doi.org/10.5061/dryad.3066j).
 *   **Ram, Y.**, Hadany, L. (2014) proevolution simulation: Version Charles. *ZENODO*.  DOI: [10.5281/zenodo.11401](http://dx.doi.org/10.5281/zenodo.11401).
 *   **Ram, Y.**, Guiejman, A. and Hadany L. (2014). proevolution simulation: Version Dobzhansky. *ZENODO*. DOI: [10.5281/zenodo.11400](http://dx.doi.org/10.5281/zenodo.11400).
@@ -50,14 +53,16 @@ Website
 ## Presentations
 
 2016
+:   *The Evolution of Stress-Induced Mutagenesis* - [seminar](https://github.com/yoavram/Oranim2016) at the Department of Biology and the Environment, Faculty of Natural Sciences, University of Haifa-Oranim, May 22.
+:   *The Evolution of Stress-Induced Mutagenesis: Causes and Consequences* - [PhD seminar](https://github.com/yoavram/PhDSeminar2016) at the Department of Molecular Biology and Ecology of Plants, Tel-Aviv University, April 6.
 :   *Microbial Growth in a Mixed Culture* - Poster at ISM (Israel Society for Microbiology) annual meeting in Bar-Ilan, February 17-18.
-:	*The Population Genetics of Stress-Induced Mutation* - seminar at the IGC, Portugal, January 14.
+:	  *The Population Genetics of Stress-Induced Mutation* - seminar at the IGC, Portugal, January 14.
 
 2015
-:	Poster at the *first Pearl Seiden International meeting in Life Sciences*, Technion, Haifa, Israel, December 9 - 10.
+:	  Poster at the *first Pearl Seiden International meeting in Life Sciences*, Technion, Haifa, Israel, December 9 - 10.
 :   **Oral presentation** at the **Gordon Research Conference** *on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 28 - July 3.
-:	Poster at the *Forecasting Evolution?* SFB 680 conference in Lisbon, Portugal, July 8 - 11.
-:	*The Population Genetics of Stress-Induced Mutation* - seminar at the IST, Austria, June 25.
+:	  Poster at the *Forecasting Evolution?* SFB 680 conference in Lisbon, Portugal, July 8 - 11.
+:	  *The Population Genetics of Stress-Induced Mutation* - seminar at the IST, Austria, June 25.
 :   *Stress-induced mutagenesis & complex adaptation* - **Short oral presentation** at the Two2Many Systems Biology Conference, Weizmann Institute, March.
 :   Oral presentation at the Quantitivate and Evolutionary Biology Seminar, Tel-Aviv University, March.
 :   *On the role of stress-induced mutagenesis in evolution* - Poster at the Israeli Genetics Society annual meeting, Weizmann Institute, February.
@@ -128,11 +133,11 @@ Website
 ## Peer-Reviews
 
 2016
-:	 ReScience
+:	   ReScience
 
 2015
 :    Theoretical Population Biology
-:	 Evolution
+:	   Evolution
 
 2014
 :    PLOS ONE
@@ -147,7 +152,7 @@ Website
 
 Spring 2015
 :    Python Programming for Biologists (0411-3122, Teacher) - new graduate students course
-:	 Evolution (0455-2536, TA)
+:	   Evolution (0455-2536, TA)
 
 Fall 2014
 :    Python Programming for Engineers (0509-1820, Teacher) - received Dean’s Award for Excellence in Teaching
@@ -181,6 +186,7 @@ Fall 2011
 ## Conferences
 
 2016
+:    PyCon Israel 2016, Tel Aviv, May.
 :    Israeli Society for Microbiology (ISM) annual meeting in Bar-Ilan, February.
 
 2015
@@ -226,4 +232,5 @@ Fall 2011
 
 ### Presentations
 
-* **Evolution and mutation in stressful times** - The evolution series in Tel-Aviv University's Botanical Gardens. 16 May, 2013.
+* **How to Study Evolution Using Scientific Python** - [contributed talk](http://il.pycon.org/2016/about/speakers.html#61aa36d93e7cee64) at [PyCon Israel 2016](http://il.pycon.org/2016), Tel Aviv, May 2 - 3, 2016
+* **Evolution and mutation in stressful times** - the evolution series in Tel-Aviv University's Botanical Gardens, May 16, 2013.
