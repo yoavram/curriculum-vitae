@@ -20,20 +20,20 @@ Website
 
 *   **Starting Fall 2016**: Postdoctoral fellow, Feldman lab, Stanford University
 
-*   **Postdoctoral fellow**, Hadany lab, Tel-Aviv University
+*   **Current**: Postdoctoral fellow, Hadany lab, Tel-Aviv University
 
-*   **Ph.D.** 2010 - 2016
+*   Ph.D., 2010 - 2016
 
     * *Institution:* Tel-Aviv University
     * *Advisor:* Prof. Lilach Hadany
     * *Ph.D. title:* The Evolution of Stress-Induced Mutagenesis: Causes and Consequences
     * Submitted February 2016
 
-*   **M.Sc.** 2010-2012 (direct Ph.D. track)
+*   M.Sc., 2010-2012 (direct Ph.D. track)
 
     Theoretical and Computational Biology, Tel-Aviv University
 
-*   **B.Sc.** 2007-2010
+*   B.Sc., 2007-2010
 
     Biology and Mathematics *magna cum laude*, Tel-Aviv University
 
