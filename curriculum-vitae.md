@@ -1,6 +1,6 @@
 % Curriculum Vitae
 % Yoav Ram
-% June 2016
+% July 2016
 
 ## Personal Information
 
@@ -17,6 +17,8 @@ Website
   ~ [www.yoavram.com](http://www.yoavram.com/) / [blog.yoavram.com](http://blog.yoavram.com/)
 
 ## Education
+
+*   **Starting Fall 2016**: Postdoctoral fellow, Feldman lab, Stanford University
 
 *   **Postdoctoral fellow**, Hadany lab, Tel-Aviv University
 
@@ -42,8 +44,11 @@ Website
 *   **Ram, Y.** and Hadany, L. (2012) The evolution of stress-induced hypermutation in asexual populations. *Evolution*, 66: 2315-2328. DOI: [10.1111/j.1558-5646.2012.01576.x](http://dx.doi.org/10.1111/j.1558-5646.2012.01576.x)
 
 ### In progress
-*   **Ram, Y.**, and Hadany, L. Condition-dependent sex: who does it, when, and why?. *Submitted*.
+*   **Ram, Y.**, and Hadany, L. Condition-dependent sex: who does it, when, and why?. *In print*.
 *   Geffen, E., Hadany, L., **Ram, Y.**, and Gafny, S. Genetic diversity in edge populations: A complementary view. *Submitted*.
+*   **Ram, Y.**, Dellus-Gur, E., Bibi, M., Obolski, U., Berman, J., and Hadany, L. Predicting microbial relative growth in a mixed culture from growth curve data. *Submitted*. Preprint available, DOI: [10.1101/022640](http://dx.doi.org/10.1101/022640).
+*   Obolski, U., Lewin-Epstein, O., Even-Tov, E., **Ram, Y.**, Hadany, L. With a little help from my friends: Cooperation can accelerate crossing of adaptive valleys. *Submitted*. Preprint available, DOI: [10.1101/062323](http://dx.doi.org/10.1101/062323).
+
 
 ## Software & Datasets
 *   **Ram Y.**, Hadany L. (2014) Data from: Stress-induced mutagenesis and complex adaptation. *Dryad Digital Repository*. DOI: [10.5061/dryad.3066j](http://dx.doi.org/10.5061/dryad.3066j).
@@ -53,6 +58,7 @@ Website
 ## Presentations
 
 2016
+:   *How to Study Evolution using Scientific Python* - [contributed talk](http://il.pycon.org/2016/about/speakers.html#61aa36d93e7cee64) at the [first PyCon Israel](http://il.pycon.org/2016/) 2016, Tel-Aviv, Israel, May 2 - 3, 2016.
 :   *The Evolution of Stress-Induced Mutagenesis* - [seminar](https://github.com/yoavram/Oranim2016) at the Department of Biology and the Environment, Faculty of Natural Sciences, University of Haifa-Oranim, May 22.
 :   *The Evolution of Stress-Induced Mutagenesis: Causes and Consequences* - [PhD seminar](https://github.com/yoavram/PhDSeminar2016) at the Department of Molecular Biology and Ecology of Plants, Tel-Aviv University, April 6.
 :   *Microbial Growth in a Mixed Culture* - Poster at ISM (Israel Society for Microbiology) annual meeting in Bar-Ilan, February 17-18.
@@ -97,6 +103,9 @@ Website
 :    *The Evolution of Stress-Induced Hypermutation* - Poster at *MMSB 2010* in Tel-Aviv, Israel – won the **Best poster award**.
 
 ## Awards
+
+2017
+:    Stanford Center for Computational, Evolutionary, and Human Genomics (CEHG) Postdoctoral Fellowship, Stanford University.
 
 2016
 :    Dean’s Award for Excellence in Teaching at the Faculty of Engineering, Tel-Aviv University.
