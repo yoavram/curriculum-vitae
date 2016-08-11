@@ -1,9 +1,10 @@
 title = """title: Curriculum Vitae
 ---
+_model: cv
+---
 body:
 """
 
-print("Converting curriculum-vitae.md to contents.lr for lektor...")
 with open('curriculum-vitae.md', 'rt') as fin, open('contents.lr', 'wt') as fout:
 	fout.write(title)
 	next(fin)
