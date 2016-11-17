@@ -1,22 +1,20 @@
 % Curriculum Vitae
 % Yoav Ram
-% August 2016
+% November 2016
 
 ## Personal Information
 
 **Name:** Yoav Ram
 
-**Phone:** +972-54-5383136
-
-**Email:** yoavram@post.tau.ac.il
+**Email:** yoav@yoavram.com
 
 **Website:** [www.yoavram.com](http://www.yoavram.com/)
 
 ## Education
 
-*   **Starting Fall 2016**: Postdoctoral fellow, Feldman lab, Stanford University
+*   **Current**: Postdoctoral fellow, Feldman lab, Stanford University
 
-*   **Current**: Postdoctoral fellow, Hadany lab, Tel-Aviv University
+*   Postdoctoral fellow, Hadany lab, Tel-Aviv University, 2016
 
 *   Ph.D., 2010 - 2016
 
@@ -59,6 +57,7 @@
 
 ## Presentations
 
+* Poster at the *Genome Evolution* conference in Weizmann Institute, Novembver 1 - 3, 2016.
 * *How to Study Evolution using Scientific Python* - [contributed talk](http://il.pycon.org/2016/about/speakers.html#61aa36d93e7cee64) at the [first PyCon Israel](http://il.pycon.org/2016/) 2016, Tel-Aviv, Israel, May 2 - 3, 2016.
 * *The Evolution of Stress-Induced Mutagenesis* - [seminar](https://github.com/yoavram/Oranim2016) at the Department of Biology and the Environment, Faculty of Natural Sciences, University of Haifa-Oranim, May 22, 2016.
 * *The Evolution of Stress-Induced Mutagenesis: Causes and Consequences* - [PhD seminar](https://github.com/yoavram/PhDSeminar2016) at the Department of Molecular Biology and Ecology of Plants, Tel-Aviv University, April 6.
@@ -99,7 +98,7 @@
 
 ## Awards
 
-* Stanford Center for Computational, Evolutionary, and Human Genomics (CEHG) Postdoctoral Fellowship, Stanford University, 2016-17.
+* Stanford *Center for Computational, Evolutionary, and Human Genomics* (CEHG) Postdoctoral Fellowship, Stanford University, 2016-17.
 * Dean’s Award for Excellence in Teaching at the Faculty of Engineering, Tel-Aviv University, 2015-16.
 * The *Israel Society for Microbiology* 2015 travel Award.
 * The *Anat Karuskopf Fund* 2015 travel Award.
