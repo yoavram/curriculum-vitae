@@ -35,6 +35,8 @@
 
 *   *Ram, Y.*, Dellus-Gur, E., Bibi, M., Obolski, U., Berman, J., and Hadany, L. [**Predicting microbial relative growth in a mixed culture from growth curve data**](http://dx.doi.org/10.1101/022640). *Submitted*. Preprint available, DOI: 10.1101/022640 <i class="ai ai-open-access ai-1x"></i>
 
+*   Obolski, U.<sup>eq</sup>, *Ram, Y.<sup>eq</sup>*, Lilach Hadany. [**Evolution on rugged adaptive landscapes**](https://doi.org/10.1101/112177). *Submitted*. Preprint available, 112177; DOI: 10.1101/112177 <i class="ai ai-open-access ai-1x"></i>
+
 *   Obolski, U., Lewin-Epstein, O., Even-Tov, E., *Ram, Y.*, Hadany, L. [**With a little help from my friends: Cooperation can accelerate crossing of adaptive valleys**](http://dx.doi.org/10.1101/062323). *In review*. Preprint available, DOI: 10.1101/062323 <i class="ai ai-open-access ai-1x"></i>
 
 *   *Ram, Y.*, and Hadany, L. (2016) [**Condition-dependent sex: who does it, when, and why?**](http://dx.doi.org/10.1098/rstb.2015.0539). *Philosophical Transactions of the Royal Society B*, 371: 20150539. DOI: 10.1098/rstb.2015.0539
@@ -49,15 +51,18 @@
 
 ## Software & Datasets
 
-*   *Ram Y.*, Hadany L. (2014) [**Data from: Stress-induced mutagenesis and complex adaptation**](http://dx.doi.org/10.5061/dryad.3066j). *Dryad Digital Repository*. DOI: 10.5061/dryad.3066j.
+*   *Ram, Y.*, Zinger, E., Hadany, L. (2017). [**Sid: Image processing for seed images**](http://doi.org/10.5281/zenodo.344898). *Zenodo*. DOI: 10.5281/zenodo.344898.
 
-*   *Ram, Y.*, Hadany, L. (2014) [**proevolution simulation: Version Charles**](http://dx.doi.org/10.5281/zenodo.11401). *ZENODO*.  DOI: 10.5281/zenodo.11401.
+*   *Ram Y.*, Hadany L. (2014) [**Data from: Stress-induced mutagenesis and complex adaptation**](http://dx.doi.org/10.5061/dryad.3066j). *Dryad Digital Repository*. DOI: 10.5061/dryad.3066j.
 
 *   *Ram, Y.*, Guiejman, A. and Hadany L. (2014). [**proevolution simulation: Version Dobzhansky**](http://dx.doi.org/10.5281/zenodo.11400). *ZENODO*. DOI: 10.5281/zenodo.11400.
 
+*   *Ram, Y.*, Hadany, L. (2014) [**proevolution simulation: Version Charles**](http://dx.doi.org/10.5281/zenodo.11401). *ZENODO*.  DOI: 10.5281/zenodo.11401.
+
 ## Presentations
 
-* *Predicting competition dynamics from growth curve data* - Oral presentation at FISEB/ILANIT, Eilat, February 2017.
+* *Predicting competition dynamics from growth curve data* - [Oral presentation](https://github.com/yoavram/ILANIT2017) at FISEB/ILANIT, Eilat, February 2017.
+
 * Seminar presentation at the Balaban Lab at Hebrew University of Jerusalem, December, 2016.
 * *The Evolution of Stress-Induced Mutagenesis* - department seminar at the Department of Ecology, Evolution and Behavior, Hebrew University of Jerusalem, December, 2016.
 * Poster at the *Genome Evolution* conference in Weizmann Institute, November 1 - 3, 2016.
