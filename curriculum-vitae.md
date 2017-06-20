@@ -62,7 +62,7 @@
 ## Presentations
 
 * Poster at the **Gordon Research Conference** *on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 10 - 15, 2017.
-* *Evolution on empirical adaptive landscapes* - [oral presentation](https://github.com/yoavram/ISM2017) at Israel Society for Microbiology Annual Meeting, April 6, 2017.
+* *Evolution on empirical adaptive landscapes* - [oral presentation](https://speakerdeck.com/yoavram/evolution-on-empirical-adaptive-landscapes) at Israel Society for Microbiology Annual Meeting, April 6, 2017.
 * *Predicting competition dynamics from growth curve data* - [Oral presentation](https://github.com/yoavram/ILANIT2017) at FISEB/ILANIT, Eilat, February 2017.
 
 * Seminar presentation at the Balaban Lab at Hebrew University of Jerusalem, December, 2016.
