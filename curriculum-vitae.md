@@ -1,6 +1,6 @@
 % Curriculum Vitae
 % Yoav Ram
-% July 2017
+% October 2017
 
 ## Personal Information
 
@@ -12,51 +12,45 @@
 
 ## Education
 
-*   **Current**: Postdoctoral fellow, Feldman lab, Stanford University
-
+*   **Current**: Postdoctoral fellow, Feldman lab, Stanford University, 2016-ongoing
 *   Postdoctoral fellow, Hadany lab, Tel-Aviv University, 2016
-
 *   Ph.D., 2010 - 2016
-
     * *Institution:* Tel-Aviv University
     * *Advisor:* Prof. Lilach Hadany
     * *Ph.D. title:* The Evolution of Stress-Induced Mutagenesis: Causes and Consequences
     * Submitted February 2016
-
 *   M.Sc., 2010-2012 (direct Ph.D. track)
-
     Theoretical and Computational Biology, Tel-Aviv University
-
 *   B.Sc., 2007-2010
-
     Biology and Mathematics *magna cum laude*, Tel-Aviv University
+
+## Employment
+
+* **Current**: Technical instructor, 2016-ongoing
+    * Python for Engineers, Machine learning & Deep learning
+* Data scientist at Neura, 2016
+* Teacher / TA at Tel-Aviv University, 2011-2015
+* R&D at NetAlgin, 2008-2009
+* Developer at XLNet, 2006-2008
+* R&D at IDF Intelligence Corps, 2002-2006
 
 ## Publications
 
 *   *Ram, Y.*, Dellus-Gur, E., Bibi, M., Obolski, U., Berman, J., and Hadany, L. [**Predicting microbial relative growth in a mixed culture from growth curve data**](http://dx.doi.org/10.1101/022640). *Submitted*. Preprint available, DOI: 10.1101/022640 <i class="ai ai-open-access ai-1x"></i>
-
-*   Obolski, U., *Ram, Y.*, Lilach Hadany. [**Evolution on rugged adaptive landscapes**](https://doi.org/10.1101/112177). *Submitted*. Preprint available, 112177; DOI: 10.1101/112177 <i class="ai ai-open-access ai-1x"></i>
-
+*   Dellus-Gur, E., *Ram, Y.*, and Hadany, L. (2017) **Errors in mutagenesis and the benefit of cell to cell signaling in the evolution of stress-induced mutagenesis**. *Royal Society Open Science*, Accepted <i class="ai ai-open-access ai-1x"></i>
+*   Obolski, U., *Ram, Y.*, Lilach Hadany. (2017) [**Evolution on rugged adaptive landscapes**](https://doi.org/10.1101/112177). *Reports on Progress in Physics*, Accepted. Preprint available, 112177; DOI: 10.1101/112177 <i class="ai ai-open-access ai-1x"></i>
 *   Obolski, U., Lewin-Epstein, O., Even-Tov, E., *Ram, Y.*, Hadany, L. (2017) [**With a little help from my friends: cooperation can accelerate the rate of adaptive valley crossing**](http://dx.doi.org/10.1186/s12862-017-0983-2). *BMC Evolutionary Biology*, 17:143. DOI: 10.1186/s12862-017-0983-2 <i class="ai ai-open-access ai-1x"></i>
-
 *   *Ram, Y.*, and Hadany, L. (2016) [**Condition-dependent sex: who does it, when, and why?**](http://dx.doi.org/10.1098/rstb.2015.0539). *Philosophical Transactions of the Royal Society B*, 371: 20150539. DOI: 10.1098/rstb.2015.0539
-
 *   *Ram, Y.* and Hadany, L. (2015) [**The probability of improvement in Fisher's geometric model: a probabilistic approach**](http://dx.doi.org/10.1016/j.tpb.2014.10.004). *Theoretical Population Biology*, 99: 1-6. DOI: 10.1016/j.tpb.2014.10.004
-
 *   *Ram, Y.* and Hadany, L. (2014) [**Stress-induced mutagenesis and complex adaptation**](http://dx.doi.org/10.1098/rspb.2014.1025). *Proceeding of the Royal Society B*. 281: 20141025. DOI: 10.1098/rspb.2014.1025
-
 *   Gueijman, A., Ayali, A., *Ram, Y.*, and Hadany, L. (2013) [**Dispersing away from bad environments: The evolution of fitness-associated dispersal (FAD) in homogeneous environments**](http://dx.doi.org/10.1186/1471-2148-13-125). *BMC Evolutionary Biology*, 13:125. DOI: 10.1186/1471-2148-13-125 <i class="ai ai-open-access ai-1x"></i>
-
 *   *Ram, Y.* and Hadany, L. (2012) [**The evolution of stress-induced hypermutation in asexual populations**](http://dx.doi.org/10.1111/j.1558-5646.2012.01576.x). *Evolution*, 66: 2315-2328. DOI: 10.1111/j.1558-5646.2012.01576.x
 
 ## Software & Datasets
 
 *   *Ram, Y.*, Zinger, E., Hadany, L. (2017). [**Sid: Image processing for seed images**](http://doi.org/10.5281/zenodo.344898). *Zenodo*. DOI: 10.5281/zenodo.344898.
-
 *   *Ram Y.*, Hadany L. (2014) [**Data from: Stress-induced mutagenesis and complex adaptation**](http://dx.doi.org/10.5061/dryad.3066j). *Dryad Digital Repository*. DOI: 10.5061/dryad.3066j.
-
 *   *Ram, Y.*, Guiejman, A. and Hadany L. (2014). [**proevolution simulation: Version Dobzhansky**](http://dx.doi.org/10.5281/zenodo.11400). *ZENODO*. DOI: 10.5281/zenodo.11400.
-
 *   *Ram, Y.*, Hadany, L. (2014) [**proevolution simulation: Version Charles**](http://dx.doi.org/10.5281/zenodo.11401). *ZENODO*.  DOI: 10.5281/zenodo.11401.
 
 ## Presentations
@@ -64,7 +58,6 @@
 * Poster at the **Gordon Research Conference** *on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 10 - 15, 2017.
 * *Evolution on empirical adaptive landscapes* - [oral presentation](https://speakerdeck.com/yoavram/evolution-on-empirical-adaptive-landscapes) at Israel Society for Microbiology Annual Meeting, April 6, 2017.
 * *Predicting competition dynamics from growth curve data* - [Oral presentation](https://github.com/yoavram/ILANIT2017) at FISEB/ILANIT, Eilat, February 2017.
-
 * Seminar presentation at the Balaban Lab at Hebrew University of Jerusalem, December, 2016.
 * *The Evolution of Stress-Induced Mutagenesis* - department seminar at the Department of Ecology, Evolution and Behavior, Hebrew University of Jerusalem, December, 2016.
 * Poster at the *Genome Evolution* conference in Weizmann Institute, November 1 - 3, 2016.
@@ -72,7 +65,6 @@
 * *The Evolution of Stress-Induced Mutagenesis: Causes and Consequences* - [PhD seminar](https://github.com/yoavram/PhDSeminar2016) at the Department of Molecular Biology and Ecology of Plants, Tel-Aviv University, April, 2016.
 * *Microbial Growth in a Mixed Culture* - Poster at ISM (Israel Society for Microbiology) annual meeting in Bar-Ilan, February 17-18, 2016.
 * *The Population Genetics of Stress-Induced Mutation* - seminar at the IGC, Portugal, January, 2016.
-
 * Poster at the *first Pearl Seiden International meeting in Life Sciences*, Technion, Haifa, Israel, December 9 - 10, 2015
 * **Oral presentation** at the **Gordon Research Conference** *on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 28 - July 3, 2015.
 * Poster at the *Forecasting Evolution?* SFB 680 conference in Lisbon, Portugal, July 8 - 11, 2015.
@@ -80,28 +72,23 @@
 * *Stress-induced mutagenesis & complex adaptation* - **Short oral presentation** at the Two2Many Systems Biology Conference, Weizmann Institute, March 2015.
 * Oral presentation at the Quantitivate and Evolutionary Biology Seminar, Tel-Aviv University, March 2015.
 * *On the role of stress-induced mutagenesis in evolution* - Poster at the Israeli Genetics Society annual meeting, Weizmann Institute, February 2015.
-
 * *On the role of stress-induced mutagenesis in evolution* - Poster at ISM (Israel Society for Microbiology) annual meeting, Haifa, April 2014.
 * *Stress, mutation, evolution, and mathematical models* - Presentation at the Astrophysics student journal club at Tel-Aviv University, March 2014.
 * *Modeling the evolution of the mutation rate* - Presentation at the Topics in Theoretical and Mathematical Biology Seminar at Tel-Aviv University, March 2014.
 * *The rate of complex adaptation with and without stress-induced mutagenesis* - Poster at FISEB/ILANIT, Eilat, February 2014.
-
 * Seminar presentation at the Pupko Lab at Tel-Aviv University, November 2013.
 * Seminar presentation at the Philosophy of Biology Group at the Humanities Faculty, Tel-Aviv University, October 2013.
 * *Adaptedness, Adaptability and Stress-Induced Mutagenesis* - Poster at *PDEs and Dynamical Systems in Biology* conference in Bar-Ilan University, October 1, 2013.
 * *Adaptedness, Adaptability and Stress-Induced Mutagenesis* - Poster at **ESEB 2013** in Lisbon, Portugal, August 19-24, 2013.
 * *Stress-induced Mutagenesis and the Evolution of Complex Traits* - Poster at the **Gordon Research Conference** *on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 2-6, 2013.
 * *The Role of Stress-Induced Mutation in the Emergence of Complex Adaptations* - **Oral presentation** at the *5th Annual SIDEER Graduate Symposium*, Ben-Gurion University of the Negev, Sede-Boqer Campus, March 20, 2013.
-
 * *Evolutionary Causes and Consequences of Stress-Induced Hypermutation* - **Oral presentation** at *The 1st Graduate Students' Conference in Genetics, Genomics and Evolution*, Ben-Gurion University of the Negev, September 23, 2012. DOI: [10.6084/m9.figshare.96049](http://dx.doi.org/10.6084/m9.figshare.96049).
 * Seminar presentation at the Pilpel Lab at the Weizmann Institute of Science, June 2012.
 * *The Evolution of Stress-Induced Mutagenesis in Finite and Infinite Populations* - **Oral presentation at *PopGroup 45*** in Nottingham, UK, January, 2012. DOI: [10.6084/m9.figshare.95939](http://dx.doi.org/10.6084/m9.figshare.96049).
-
 * Seminar presentation at the Eldar Lab at Tel-Aviv University, December 2011.
 * Seminar presentation at the Department of Molecular Biology and Plants M.Sc. Seminar at Tel-Aviv University, November 2011.
 * *Rise and Fall of Mutator Bacteria* - Seminar presentation at the *BioMath Student Journal Club*, Tel-Aviv University, May 2011. DOI: [10.6084/m9.figshare.95940](http://dx.doi.org/10.6084/m9.figshare.95940).
 * *The Evolution of Stress-Induced Hypermutation* - Poster at **ESEB 2011** in Tubingen, Germany, August 2011. See: [F1000 Posters 2011, 2: 1484](http://f1000.com/posters/browse/summary/2211).
-
 * *The Evolution of Stress-Induced Hypermutation* - Poster at **SMBE 20108** in Lyon, France, July, 2010.
 * *The Evolution of Stress-Induced Hypermutation* - Poster at *MMSB 2010* in Tel-Aviv, Israel, 2010 – won the **Best poster award**.
 
@@ -136,6 +123,7 @@
 
 ## Teaching
 
+* 2016-2017: Python for Engineers workshops for industry-leading companies as a freelance technical instructor.
 * Spring 2015: Python Programming for Biologists (0411-3122, Teacher) - new graduate students course
 * Spring 2015: Evolution (0455-2536, TA)
 * Fall 2014: Python Programming for Engineers (0509-1820, Teacher) - received Dean’s Award for Excellence in Teaching
