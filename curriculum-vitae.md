@@ -36,14 +36,14 @@
 
 ## Publications
 
-*   *Ram, Y.*, Dellus-Gur, E., Bibi, M., Obolski, U., Berman, J., and Hadany, L. [**Predicting microbial relative growth in a mixed culture from growth curve data**](http://dx.doi.org/10.1101/022640). *Submitted*. Preprint available, DOI: 10.1101/022640 <i class="ai ai-open-access ai-1x"></i>
-*   Dellus-Gur, E., *Ram, Y.*, and Hadany, L. (2017) **Errors in mutagenesis and the benefit of cell to cell signaling in the evolution of stress-induced mutagenesis**. *Royal Society Open Science*, Accepted <i class="ai ai-open-access ai-1x"></i>
-*   Obolski, U., *Ram, Y.*, Lilach Hadany. (2017) [**Evolution on rugged adaptive landscapes**](https://doi.org/10.1101/112177). *Reports on Progress in Physics*, Accepted. Preprint available, 112177; DOI: 10.1101/112177 <i class="ai ai-open-access ai-1x"></i>
-*   Obolski, U., Lewin-Epstein, O., Even-Tov, E., *Ram, Y.*, Hadany, L. (2017) [**With a little help from my friends: cooperation can accelerate the rate of adaptive valley crossing**](http://dx.doi.org/10.1186/s12862-017-0983-2). *BMC Evolutionary Biology*, 17:143. DOI: 10.1186/s12862-017-0983-2 <i class="ai ai-open-access ai-1x"></i>
+*   *Ram, Y.*, Dellus-Gur, E., Bibi, M., Obolski, U., Berman, J., and Hadany, L. [**Predicting microbial relative growth in a mixed culture from growth curve data**](http://dx.doi.org/10.1101/022640). *Submitted*. Preprint available, DOI: 10.1101/022640
+*   Dellus-Gur, E., *Ram, Y.*, and Hadany, L. (2017) [**Errors in mutagenesis and the benefit of cell-to-cell signalling in the evolution of stress-induced mutagenesis**](http://dx.doi.org/10.1098/rsos.170529). *Royal Society Open Science*, 4:170529. DOI: 10.1098/rsos.170529
+*   Obolski, U., *Ram, Y.*, Lilach Hadany. (2017) [**Evolution on rugged adaptive landscapes**](https://doi.org/10.1101/112177). *Reports on Progress in Physics*, Accepted. Preprint available, DOI: 10.1101/112177
+*   Obolski, U., Lewin-Epstein, O., Even-Tov, E., *Ram, Y.*, Hadany, L. (2017) [**With a little help from my friends: cooperation can accelerate the rate of adaptive valley crossing**](http://dx.doi.org/10.1186/s12862-017-0983-2). *BMC Evolutionary Biology*, 17:143. DOI: 10.1186/s12862-017-0983-2
 *   *Ram, Y.*, and Hadany, L. (2016) [**Condition-dependent sex: who does it, when, and why?**](http://dx.doi.org/10.1098/rstb.2015.0539). *Philosophical Transactions of the Royal Society B*, 371: 20150539. DOI: 10.1098/rstb.2015.0539
 *   *Ram, Y.* and Hadany, L. (2015) [**The probability of improvement in Fisher's geometric model: a probabilistic approach**](http://dx.doi.org/10.1016/j.tpb.2014.10.004). *Theoretical Population Biology*, 99: 1-6. DOI: 10.1016/j.tpb.2014.10.004
 *   *Ram, Y.* and Hadany, L. (2014) [**Stress-induced mutagenesis and complex adaptation**](http://dx.doi.org/10.1098/rspb.2014.1025). *Proceeding of the Royal Society B*. 281: 20141025. DOI: 10.1098/rspb.2014.1025
-*   Gueijman, A., Ayali, A., *Ram, Y.*, and Hadany, L. (2013) [**Dispersing away from bad environments: The evolution of fitness-associated dispersal (FAD) in homogeneous environments**](http://dx.doi.org/10.1186/1471-2148-13-125). *BMC Evolutionary Biology*, 13:125. DOI: 10.1186/1471-2148-13-125 <i class="ai ai-open-access ai-1x"></i>
+*   Gueijman, A., Ayali, A., *Ram, Y.*, and Hadany, L. (2013) [**Dispersing away from bad environments: The evolution of fitness-associated dispersal (FAD) in homogeneous environments**](http://dx.doi.org/10.1186/1471-2148-13-125). *BMC Evolutionary Biology*, 13:125. DOI: 10.1186/1471-2148-13-125
 *   *Ram, Y.* and Hadany, L. (2012) [**The evolution of stress-induced hypermutation in asexual populations**](http://dx.doi.org/10.1111/j.1558-5646.2012.01576.x). *Evolution*, 66: 2315-2328. DOI: 10.1111/j.1558-5646.2012.01576.x
 
 ## Software & Datasets
