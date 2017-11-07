@@ -1,6 +1,6 @@
 % Curriculum Vitae
 % Yoav Ram
-% October 2017
+% November 2017
 
 ## Personal Information
 
@@ -36,9 +36,11 @@
 
 ## Publications
 
+*   *Ram, Y.*, Liberman, U., and Feldman, M.W. **Vertical and oblique transmission under fluctuating selection**. *Submitted*.
+*   *Ram, Y.* and Hadany, L. **The evolution of stress-induced mutagenesis in the presence of recombination**. *Submitted*.
 *   *Ram, Y.*, Dellus-Gur, E., Bibi, M., Obolski, U., Berman, J., and Hadany, L. [**Predicting microbial relative growth in a mixed culture from growth curve data**](http://dx.doi.org/10.1101/022640). *Submitted*. Preprint available, DOI: 10.1101/022640
 *   Dellus-Gur, E., *Ram, Y.*, and Hadany, L. (2017) [**Errors in mutagenesis and the benefit of cell-to-cell signalling in the evolution of stress-induced mutagenesis**](http://dx.doi.org/10.1098/rsos.170529). *Royal Society Open Science*, 4:170529. DOI: 10.1098/rsos.170529
-*   Obolski, U., *Ram, Y.*, Lilach Hadany. (2017) [**Evolution on rugged adaptive landscapes**](https://doi.org/10.1101/112177). *Reports on Progress in Physics*, Accepted. Preprint available, DOI: 10.1101/112177
+*   Obolski, U., *Ram, Y.*, Lilach Hadany. (2017) [**Evolution on rugged adaptive landscapes**](http://dx.doi.org/10.1088/1361-6633/aa94d4). *Reports on Progress in Physics*, In print. DOI: 0.1088/1361-6633/aa94d4
 *   Obolski, U., Lewin-Epstein, O., Even-Tov, E., *Ram, Y.*, Hadany, L. (2017) [**With a little help from my friends: cooperation can accelerate the rate of adaptive valley crossing**](http://dx.doi.org/10.1186/s12862-017-0983-2). *BMC Evolutionary Biology*, 17:143. DOI: 10.1186/s12862-017-0983-2
 *   *Ram, Y.*, and Hadany, L. (2016) [**Condition-dependent sex: who does it, when, and why?**](http://dx.doi.org/10.1098/rstb.2015.0539). *Philosophical Transactions of the Royal Society B*, 371: 20150539. DOI: 10.1098/rstb.2015.0539
 *   *Ram, Y.* and Hadany, L. (2015) [**The probability of improvement in Fisher's geometric model: a probabilistic approach**](http://dx.doi.org/10.1016/j.tpb.2014.10.004). *Theoretical Population Biology*, 99: 1-6. DOI: 10.1016/j.tpb.2014.10.004
