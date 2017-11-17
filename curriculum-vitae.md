@@ -39,6 +39,7 @@
 *   *Ram, Y.*, Liberman, U., and Feldman, M.W. **Vertical and oblique transmission under fluctuating selection**. *Submitted*.
 *   *Ram, Y.* and Hadany, L. **The evolution of stress-induced mutagenesis in the presence of recombination**. *Submitted*.
 *   *Ram, Y.*, Dellus-Gur, E., Bibi, M., Obolski, U., Berman, J., and Hadany, L. [**Predicting microbial relative growth in a mixed culture from growth curve data**](http://dx.doi.org/10.1101/022640). *Submitted*. Preprint available, DOI: 10.1101/022640
+*   Rougier, N.P., ..., *Ram, Y.*, et al. [**Sustainable computational science: the _ReScience_ initiative**](https://arxiv.org/abs/1707.04393). *PeerJ Computer Science*, Accepted. arXiv:[1707.04393](https://arxiv.org/abs/1707.04393).
 *   Dellus-Gur, E., *Ram, Y.*, and Hadany, L. (2017) [**Errors in mutagenesis and the benefit of cell-to-cell signalling in the evolution of stress-induced mutagenesis**](http://dx.doi.org/10.1098/rsos.170529). *Royal Society Open Science*, 4:170529. DOI: 10.1098/rsos.170529
 *   Obolski, U., *Ram, Y.*, Lilach Hadany. (2017) [**Evolution on rugged adaptive landscapes**](http://dx.doi.org/10.1088/1361-6633/aa94d4). *Reports on Progress in Physics*, In print. DOI: 0.1088/1361-6633/aa94d4
 *   Obolski, U., Lewin-Epstein, O., Even-Tov, E., *Ram, Y.*, Hadany, L. (2017) [**With a little help from my friends: cooperation can accelerate the rate of adaptive valley crossing**](http://dx.doi.org/10.1186/s12862-017-0983-2). *BMC Evolutionary Biology*, 17:143. DOI: 10.1186/s12862-017-0983-2
