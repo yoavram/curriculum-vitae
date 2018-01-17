@@ -1,6 +1,6 @@
 % Curriculum Vitae
 % Yoav Ram
-% November 2017
+% January 2018
 
 ## Personal Information
 
@@ -13,35 +13,38 @@
 ## Education
 
 *   **Current**: Postdoctoral fellow, Feldman lab, Stanford University, 2016-ongoing
-*   Postdoctoral fellow, Hadany lab, Tel-Aviv University, 2016
+*   Postdoctoral fellow, Hadany lab, Tel Aviv University, 2016
 *   Ph.D., 2010 - 2016
-    * *Institution:* Tel-Aviv University
+    * *Institution:* Tel Aviv University
     * *Advisor:* Prof. Lilach Hadany
     * *Ph.D. title:* The Evolution of Stress-Induced Mutagenesis: Causes and Consequences
     * Submitted February 2016
 *   M.Sc., 2010-2012 (direct Ph.D. track)
-    Theoretical and Computational Biology, Tel-Aviv University
+    Theoretical and Computational Biology, Tel Aviv University
 *   B.Sc., 2007-2010
-    Biology and Mathematics *magna cum laude*, Tel-Aviv University
+    Biology and Mathematics *magna cum laude*, Tel Aviv University
 
 ## Employment
 
 * **Current**: Technical instructor, 2016-ongoing
     * Python for Engineers, Machine learning & Deep learning
 * Data scientist at Neura, 2016
-* Teacher / TA at Tel-Aviv University, 2011-2015
+* Teacher / TA at Tel Aviv University, 2011-2015
 * R&D at NetAlgin, 2008-2009
 * Developer at XLNet, 2006-2008
 * R&D at IDF Intelligence Corps, 2002-2006
 
 ## Publications
 
-*   *Ram, Y.*, Liberman, U., and Feldman, M.W. **Vertical and oblique transmission under fluctuating selection**. *Submitted*.
+*   *Ram, Y.*, Liberman, U., and Feldman, M.W. (2018) [**Vertical and oblique transmission under fluctuating selection**](https://www.biorxiv.org/content/early/2017/12/04/229179). *Proceedings of the National Academy of Sciences USA*, in press.
+*   *Ram, Y.*, Altenberg, L., Liberman, U, and Feldman, M.W. [**Generation of Variation and Mean Fitness Increase: Necessity is the Mother of Genetic Invention**](https://www.biorxiv.org/content/early/2017/12/05/229351). *Submitted*.
+*   Zinger, E., Guiejman, A, Obolski, U., *Ram, Y.*, Ruby, E., Binder, M., Yechieli, N., Ohad, N., Hadany L. **The plant and the ant: less fit Lamium plants produce more dispersible seeds**. *Submitted*.
+*   Harari, Y., *Ram, Y.*, Rappoport, N., Hadany, L., Kupiec, M. **Spontaneous changes in ploidy are common in yeast**. *In revision*.
 *   *Ram, Y.* and Hadany, L. **The evolution of stress-induced mutagenesis in the presence of recombination**. *Submitted*.
 *   *Ram, Y.*, Dellus-Gur, E., Bibi, M., Obolski, U., Berman, J., and Hadany, L. [**Predicting microbial relative growth in a mixed culture from growth curve data**](http://dx.doi.org/10.1101/022640). *Submitted*. Preprint available, DOI: 10.1101/022640
-*   Rougier, N.P., ..., *Ram, Y.*, et al. [**Sustainable computational science: the _ReScience_ initiative**](https://arxiv.org/abs/1707.04393). *PeerJ Computer Science*, Accepted. arXiv:[1707.04393](https://arxiv.org/abs/1707.04393).
+*   Rougier, N.P., ..., *Ram, Y.*, et al. [**Sustainable computational science: the _ReScience_ initiative**](http://doi.org/10.7717/peerj-cs.142). *PeerJ Computer Science*, 3: e142. DOI: 10.7717/peerj-cs.142
 *   Dellus-Gur, E., *Ram, Y.*, and Hadany, L. (2017) [**Errors in mutagenesis and the benefit of cell-to-cell signalling in the evolution of stress-induced mutagenesis**](http://dx.doi.org/10.1098/rsos.170529). *Royal Society Open Science*, 4:170529. DOI: 10.1098/rsos.170529
-*   Obolski, U., *Ram, Y.*, Lilach Hadany. (2017) [**Evolution on rugged adaptive landscapes**](http://dx.doi.org/10.1088/1361-6633/aa94d4). *Reports on Progress in Physics*, In print. DOI: 0.1088/1361-6633/aa94d4
+*   Obolski, U., *Ram, Y.*, Lilach Hadany. (2018) [**Evolution on rugged adaptive landscapes**](http://dx.doi.org/10.1088/1361-6633/aa94d4). *Reports on Progress in Physics*, 81: 12602. DOI: 10.1088/1361-6633/aa94d4
 *   Obolski, U., Lewin-Epstein, O., Even-Tov, E., *Ram, Y.*, Hadany, L. (2017) [**With a little help from my friends: cooperation can accelerate the rate of adaptive valley crossing**](http://dx.doi.org/10.1186/s12862-017-0983-2). *BMC Evolutionary Biology*, 17:143. DOI: 10.1186/s12862-017-0983-2
 *   *Ram, Y.*, and Hadany, L. (2016) [**Condition-dependent sex: who does it, when, and why?**](http://dx.doi.org/10.1098/rstb.2015.0539). *Philosophical Transactions of the Royal Society B*, 371: 20150539. DOI: 10.1098/rstb.2015.0539
 *   *Ram, Y.* and Hadany, L. (2015) [**The probability of improvement in Fisher's geometric model: a probabilistic approach**](http://dx.doi.org/10.1016/j.tpb.2014.10.004). *Theoretical Population Biology*, 99: 1-6. DOI: 10.1016/j.tpb.2014.10.004
@@ -58,6 +61,9 @@
 
 ## Presentations
 
+* *Mathematical and Computer Models in Evolution: from microbes to human culture* - the School of Computer Science colloquium, Interdisciplinary Center Herzliya, January 2018.
+* *Evolution of non-vertical transmission in changing environments* - special guest seminar at the Department of Molecular Genetics, Weizmann Institute, January 2018.
+* *Vertical and oblique transmission under fluctuating selection* - Evolgenome seminar, Stanford University, November, 2017.
 * Poster at the **Gordon Research Conference** *on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 10 - 15, 2017.
 * *Evolution on empirical adaptive landscapes* - [oral presentation](https://speakerdeck.com/yoavram/evolution-on-empirical-adaptive-landscapes) at Israel Society for Microbiology Annual Meeting, April 6, 2017.
 * *Predicting competition dynamics from growth curve data* - [Oral presentation](https://github.com/yoavram/ILANIT2017) at FISEB/ILANIT, Eilat, February 2017.
@@ -65,7 +71,7 @@
 * *The Evolution of Stress-Induced Mutagenesis* - department seminar at the Department of Ecology, Evolution and Behavior, Hebrew University of Jerusalem, December, 2016.
 * Poster at the *Genome Evolution* conference in Weizmann Institute, November 1 - 3, 2016.
 * *The Evolution of Stress-Induced Mutagenesis* - [seminar](https://github.com/yoavram/Oranim2016) at the Department of Biology and the Environment, Faculty of Natural Sciences, University of Haifa-Oranim, May, 2016.
-* *The Evolution of Stress-Induced Mutagenesis: Causes and Consequences* - [PhD seminar](https://github.com/yoavram/PhDSeminar2016) at the Department of Molecular Biology and Ecology of Plants, Tel-Aviv University, April, 2016.
+* *The Evolution of Stress-Induced Mutagenesis: Causes and Consequences* - [PhD seminar](https://github.com/yoavram/PhDSeminar2016) at the Department of Molecular Biology and Ecology of Plants, Tel Aviv University, April, 2016.
 * *Microbial Growth in a Mixed Culture* - Poster at ISM (Israel Society for Microbiology) annual meeting in Bar-Ilan, February 17-18, 2016.
 * *The Population Genetics of Stress-Induced Mutation* - seminar at the IGC, Portugal, January, 2016.
 * Poster at the *first Pearl Seiden International meeting in Life Sciences*, Technion, Haifa, Israel, December 9 - 10, 2015
@@ -73,14 +79,14 @@
 * Poster at the *Forecasting Evolution?* SFB 680 conference in Lisbon, Portugal, July 8 - 11, 2015.
 * *The Population Genetics of Stress-Induced Mutation* - seminar at the IST, Austria, June 25, 2015.
 * *Stress-induced mutagenesis & complex adaptation* - **Short oral presentation** at the Two2Many Systems Biology Conference, Weizmann Institute, March 2015.
-* Oral presentation at the Quantitivate and Evolutionary Biology Seminar, Tel-Aviv University, March 2015.
+* Oral presentation at the Quantitivate and Evolutionary Biology Seminar, Tel Aviv University, March 2015.
 * *On the role of stress-induced mutagenesis in evolution* - Poster at the Israeli Genetics Society annual meeting, Weizmann Institute, February 2015.
 * *On the role of stress-induced mutagenesis in evolution* - Poster at ISM (Israel Society for Microbiology) annual meeting, Haifa, April 2014.
-* *Stress, mutation, evolution, and mathematical models* - Presentation at the Astrophysics student journal club at Tel-Aviv University, March 2014.
-* *Modeling the evolution of the mutation rate* - Presentation at the Topics in Theoretical and Mathematical Biology Seminar at Tel-Aviv University, March 2014.
+* *Stress, mutation, evolution, and mathematical models* - Presentation at the Astrophysics student journal club at Tel Aviv University, March 2014.
+* *Modeling the evolution of the mutation rate* - Presentation at the Topics in Theoretical and Mathematical Biology Seminar at Tel Aviv University, March 2014.
 * *The rate of complex adaptation with and without stress-induced mutagenesis* - Poster at FISEB/ILANIT, Eilat, February 2014.
-* Seminar presentation at the Pupko Lab at Tel-Aviv University, November 2013.
-* Seminar presentation at the Philosophy of Biology Group at the Humanities Faculty, Tel-Aviv University, October 2013.
+* Seminar presentation at the Pupko Lab at Tel Aviv University, November 2013.
+* Seminar presentation at the Philosophy of Biology Group at the Humanities Faculty, Tel Aviv University, October 2013.
 * *Adaptedness, Adaptability and Stress-Induced Mutagenesis* - Poster at *PDEs and Dynamical Systems in Biology* conference in Bar-Ilan University, October 1, 2013.
 * *Adaptedness, Adaptability and Stress-Induced Mutagenesis* - Poster at **ESEB 2013** in Lisbon, Portugal, August 19-24, 2013.
 * *Stress-induced Mutagenesis and the Evolution of Complex Traits* - Poster at the **Gordon Research Conference** *on Biological Mechanisms in Evolution*, Stonehill College, Easton, MA, USA, June 2-6, 2013.
@@ -88,31 +94,31 @@
 * *Evolutionary Causes and Consequences of Stress-Induced Hypermutation* - **Oral presentation** at *The 1st Graduate Students' Conference in Genetics, Genomics and Evolution*, Ben-Gurion University of the Negev, September 23, 2012. DOI: [10.6084/m9.figshare.96049](http://dx.doi.org/10.6084/m9.figshare.96049).
 * Seminar presentation at the Pilpel Lab at the Weizmann Institute of Science, June 2012.
 * *The Evolution of Stress-Induced Mutagenesis in Finite and Infinite Populations* - **Oral presentation at *PopGroup 45*** in Nottingham, UK, January, 2012. DOI: [10.6084/m9.figshare.95939](http://dx.doi.org/10.6084/m9.figshare.96049).
-* Seminar presentation at the Eldar Lab at Tel-Aviv University, December 2011.
-* Seminar presentation at the Department of Molecular Biology and Plants M.Sc. Seminar at Tel-Aviv University, November 2011.
-* *Rise and Fall of Mutator Bacteria* - Seminar presentation at the *BioMath Student Journal Club*, Tel-Aviv University, May 2011. DOI: [10.6084/m9.figshare.95940](http://dx.doi.org/10.6084/m9.figshare.95940).
+* Seminar presentation at the Eldar Lab at Tel Aviv University, December 2011.
+* Seminar presentation at the Department of Molecular Biology and Plants M.Sc. Seminar at Tel Aviv University, November 2011.
+* *Rise and Fall of Mutator Bacteria* - Seminar presentation at the *BioMath Student Journal Club*, Tel Aviv University, May 2011. DOI: [10.6084/m9.figshare.95940](http://dx.doi.org/10.6084/m9.figshare.95940).
 * *The Evolution of Stress-Induced Hypermutation* - Poster at **ESEB 2011** in Tubingen, Germany, August 2011. See: [F1000 Posters 2011, 2: 1484](http://f1000.com/posters/browse/summary/2211).
 * *The Evolution of Stress-Induced Hypermutation* - Poster at **SMBE 20108** in Lyon, France, July, 2010.
-* *The Evolution of Stress-Induced Hypermutation* - Poster at *MMSB 2010* in Tel-Aviv, Israel, 2010 – won the **Best poster award**.
+* *The Evolution of Stress-Induced Hypermutation* - Poster at *MMSB 2010* in Tel Aviv, Israel, 2010 – won the **Best poster award**.
 
 ## Awards
 
 * Stanford *Center for Computational, Evolutionary, and Human Genomics* (CEHG) Postdoctoral Fellowship, Stanford University, 2016-17.
-* Dean’s Award for Excellence in Teaching at the Faculty of Engineering, Tel-Aviv University, 2015-16.
+* Dean’s Award for Excellence in Teaching at the Faculty of Engineering, Tel Aviv University, 2015-16.
 * The *Israel Society for Microbiology* 2015 travel Award.
 * The *Anat Karuskopf Fund* 2015 travel Award.
 * The *Manna Institute for Plants BioSciences* 2015 travel award.
 * The Ministry of Science and Technology International Education 2014 Scholarship.
-* Research achievements scholarship from the Life-Science faculty, Tel-Aviv University, 2013-2014.
+* Research achievements scholarship from the Life-Science faculty, Tel Aviv University, 2013-2014.
 * Fellowship from the *Manna Program in Food Safety and Security*, 2013-14.
 * The *Manna Institute for Plants BioSciences* 2013 travel award.
-* Research achievements scholarship from the Life-Science faculty, Tel-Aviv University, 2011-2012.
+* Research achievements scholarship from the Life-Science faculty, Tel Aviv University, 2011-2012.
 * Registration and accommodation waiver (sponsored by Cambridge University Press) for *PopGroup45*, 2012, in Nottingham, UK.
 * Crowd-funded travel expenses for *PopGroup 45* via *The #SciFund Challenge*.
 * SSE International 2011 Travel Award.
-* Direct Ph.D. scholarship from the Department of Molecular Biology and Ecology of Plants, Tel-Aviv University, 2010-2015.
+* Direct Ph.D. scholarship from the Department of Molecular Biology and Ecology of Plants, Tel Aviv University, 2010-2015.
 * *SMBE 2010 Undergraduate Diversity Mentoring Program* award.
-* Best poster award at *MMSB 2010* in Tel-Aviv, Israel.
+* Best poster award at *MMSB 2010* in Tel Aviv, Israel.
 * The *Amos de-Shalit* Ulpana for excellent students in Life-Sciences at the Weizmann Institute of Science, 2009.
 
 ## Peer-Reviews
@@ -139,7 +145,7 @@
 * Fall 2012: Python Programming for Engineers (0509-1820, TA)
 * Spring 2012: Evolution (0455-2536, TA)
 * Fall 2011: Python Programming for Engineers (0509-1821, TA)
-* 2011-2014: Co-organizing the *BioMath Student Journal Club* at Tel-Aviv University
+* 2011-2014: Co-organizing the *BioMath Student Journal Club* at Tel Aviv University
 
 ## Public Outreach
 
@@ -150,4 +156,4 @@
 ### Presentations
 
 * **How to Study Evolution Using Scientific Python** - [contributed talk](http://il.pycon.org/2016/about/speakers.html#61aa36d93e7cee64) at [PyCon Israel 2016](http://il.pycon.org/2016), Tel Aviv, May 2 - 3, 2016
-* **Evolution and mutation in stressful times** - the evolution series in Tel-Aviv University's Botanical Gardens, May 16, 2013.
+* **Evolution and mutation in stressful times** - the evolution series in Tel Aviv University's Botanical Gardens, May 16, 2013.
