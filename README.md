@@ -1,22 +1,13 @@
 # Curriculum Vitae
 
-This is a repository for my CV or Resume.
+This is a repository for my CV.
 
-On December 2012 I decided to migrate my CV from Word (.doc) to [Markdown] (.md) which can be converted with [Pandoc] to PDF, HTML and DOCX for a very nice result. Another advantage of [Markdown] is that it can be version controlled and edited with a plain text editor. 
+From [2012 to 2018](https://github.com/yoavram/curriculum-vitae/tree/a17f67036da359b3bce995db6311045a730b7f09) my CV was written in markdown and processed using pandoc.
 
-I use [Markx] to edit the CV and do the conversion, but it is done with a command similar to:
-
-    pandoc curriculum-vitae.md -o curriculum-vitae.pdf -s --variable=geometry:a4paper
-
-Subtitute `pdf` with `docx`, `epub`, `html`, etc.
+In 2018 I migrated to use LaTeX and process it with TeXShop.
 
 ### License
 
 The concept, template, and code are under CC0.
 
 The content itself, the details of my CV, can be shared and distributed but should not be modified or remixed without my consent.
-
-[Markdown]: http://daringfireball.net/projects/markdown/
-[Pandoc]: http://johnmacfarlane.net/pandoc
-[Markx]: https://github.com/yoavram/markx
-
