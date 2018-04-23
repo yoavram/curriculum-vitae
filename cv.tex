@@ -1,0 +1,346 @@
+\documentclass[10pt]{article}
+\usepackage{newcent}   % uses new century schoolbook postscript font 
+
+\usepackage{geometry}
+\geometry{
+a4paper,
+total={170mm,257mm},
+left=20mm,
+top=20mm,
+headheight=0pt
+}
+
+\usepackage[dvipsnames]{xcolor}
+\usepackage{array}
+\usepackage[unicode=true,colorlinks=true,urlcolor=CadetBlue,citecolor=black,linkcolor=black]{hyperref}
+\usepackage{longtable}
+\usepackage{enumitem}
+\setitemize{noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt} %no extra line break above or between itemized entries
+
+% Customization
+\definecolor{lightgray}{gray}{0.8}
+\newcolumntype{L}{>{\raggedleft}p{0.14\textwidth}}
+\newcolumntype{R}{p{0.8\textwidth}}
+\newcommand\VRule{\color{lightgray}\vrule width 0.5pt}
+
+% Header
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+
+\pagestyle{fancy}
+\lhead{Yoav Ram | CV}
+\cfoot{}
+\rhead{\thepage\ / \pageref{LastPage}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\fancypagestyle{plain}{%
+\fancyhf{} % clear all header and footer fields
+\fancyhead[r]{\thepage\ / \pageref{LastPage}} % except the center
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}}
+
+\begin{document}
+
+\thispagestyle{plain} % no header on first page
+
+\begin{center}
+{\huge\bf Yoav Ram | CV} \\
+\smallskip
+{\large Department of Biology,
+Stanford University} \\
+\smallskip
+{\small 
+yoavram@stanford.edu \quad
+www.yoavram.com \\
+IL +972 (545) 383136 \quad
+US +1 (650) 440-9625
+}
+\end{center} 
+
+\vspace{\baselineskip} \hrule height 1pt \vspace{0.5\baselineskip}
+
+\section*{Education} {
+\begin{longtable}{L!{\VRule}R}
+
+2010-2016 & 
+\textbf{Ph.D.}, Direct Ph.D. track, Tel-Aviv University \\
+& Thesis title: \emph{The Evolution of Stress-Induced Mutagenesis: Causes and Consequences} \\
+\\
+2010-2012 & 
+\textbf{M.Sc.}, Direct Ph.D. track, Tel-Aviv University \\
+& Theoretical and Computational Biology \\
+\\
+2007-2010 & 
+\textbf{B.Sc.}, Biology and Mathematics \emph{magna cum lauda}, Tel-Aviv University \\
+
+\end{longtable}
+}  
+
+%\pagebreak
+
+\section*{Employment} {
+\begin{longtable}{L!{\VRule}R}
+
+Starting 2018 &
+\textbf{Senior lecturer}, Efi Arazi School of Computer Science, the Interdisciplinary Center, Herzliya \\
+\\
+2016-2018 &
+\textbf{Postdoctoral fellow}, Center for Computational, Evolutionary, and Human Genomics, Stanford University \\
+& Mentor | Prof. Marcus W. Feldman, Department of Biology  \\
+\\
+2016 & 
+\textbf{Postdoctoral fellow}, Hadany Lab, Tel-Aviv University \\
+& Mentor | Prof. Lilach Hadany, Department of Plant Sciences  \\
+\\
+2016 & 
+\textbf{Data scientist }, Neura \\
+\\
+2010-2016 & 
+\textbf{Ph.D. student}, Hadany Lab, Tel-Aviv University \\
+& Mentor | Prof. Lilach Hadany, Department of Plant Sciences  \\
+\\
+2008-2010 & 
+\textbf{Research Assistant}, Hadany Lab, Tel-Aviv University \\
+& Mentor | Prof. Lilach Hadany, Department of Plant Sciences  \\
+\\
+2008-2009 & 
+\textbf{Software Developer}, NetAlign \\
+\\
+2006-2008 & 
+\textbf{Software Developer}, XLNet \\
+\\
+2002-2006 & 
+\textbf{Communications Researcher}, IDF Intelligence Corps \\
+\\
+
+\end{longtable}
+}  
+
+\pagebreak
+
+\section*{Awards} {
+\begin{longtable}{L!{\VRule}R}
+2016-17 & \textbf{Postdoctoral fellowship} of the Stanford Center for Computational, Evolutionary, and Human Genomics \\*
+\\*
+2015-16 & \textbf{Dean's Award for Excellence in Teaching}, Faculty of Engineering, Tel-Aviv University \\*
+\\*
+2015 & The Israel Society for Microbiology travel award \\*[0.1cm]
+$\ast$ & The Anat Karuskopf Fund travel award \\*[0.1cm]
+$\ast$ & The Manna Institute for Plants BioSciences travel award \\*
+\\*
+2014 & The Israeli Ministry of Science and Technology \textbf{International Education Scholarship} \\*
+\\
+2013-2014 & Research achievements scholarship, Life Sciences faculty, Tel-Aviv University. \\*[0.1cm]
+$\ast$ & Fellowship from the Manna Program in Food Safety and Security \\*
+\\
+2013 & The Manna Institute for Plants BioSciences travel award \\*
+\\
+2012 & Registration \& accommodation waiver for PopGroup45 in Nottingham, UK \\*[0.1cm]
+$\ast$ & Crowd-funded travel expenses for PopGroup45 via The \#SciFund Challenge \\*
+\\
+2011-2012 & Research achievements scholarship, Life Sciences faculty, Tel-Aviv University \\*
+\\
+2011 & Society for the Study of Evolution International travel award \\*
+\\
+2010-2015 & \textbf{Direct Ph.D. scholarship}, Department of Plant Sciences, Tel-Aviv University \\*
+\\
+2010 & Society for Molecular Biology \& Evolution Undergraduate Diversity Mentoring Program award \\*[0.1cm]
+$\ast$ & \textbf{Best poster award} at Mathematical Methods in Systems Biology workshop, Tel-Aviv, Israel \\*
+\\
+2009 & Amos de-Shalit Ulpana for excellent students in Life Sciences, Weizmann Institute. \\*
+\end{longtable}
+} 
+
+\pagebreak
+
+\section*{Publications
+{\small\sl$^*$equal contribution $|$ citation counts from \href{https://scholar.google.com/citations?user=RIFmJvYAAAAJ}{Scholar}}} {
+\begin{longtable}{L!{\VRule}R}
+%%%%%%%%%%%
+\textbf{Published \\ \& Accepted} 
+%%%%%%%%%%%
+& \textbf{Ram, Y.}, Liberman, U., Feldman, M.W. (2018) \emph{Evolution of vertical and oblique transmission under fluctuating selection}. Proceedings of the National Academy of Sciences USA, 201719171. DOI: \href{http://doi.org/10.1073/pnas.1719171115}{10.1073/pnas.1719171115}. \\*
+\\*
+& \textbf{Ram, Y.}, Altenberg, L., Liberman, U., Feldman, M.W. (2018) \emph{Generation of variation and a modified mean fitness principle: Necessity is the mother of genetic invention}. Theoretical Population Biology. DOI: \href{https://doi.org/10.1016/j.tpb.2018.02.004}{10.1016/j.tpb.2018.02.004}. \\*
+\\*
+& Harari, Y., \textbf{Ram, Y.}, Rappoport, N., Hadany, L., Kupiec, M. (2018) \emph{Spontaneous changes in ploidy are common in yeast}. Current Biology, 28:1–11. DOI: \href{https://doi.org/10.1016/j.cub.2018.01.062}{j.cub.2018.01.062}. \\ *
+\\*
+& Harari, Y., \textbf{Ram, Y.}, Kupiec, M. (2018) \emph{Frequent ploidy changes in growing yeast cultures}. Current Genetics, 0:1–4.. DOI: \href{https://doi.org/10.1007/s00294-018-0823-y}{10.1007/s00294-018-0823-y}. \\ *
+\\*
+& Obolski, U.$^*$, \textbf{Ram, Y.}$^*$, Hadany, L. (2018) \emph{Evolution on rugged adaptive landscapes}. Reports on Progress in Physics, 81: 12602. DOI: \href{http://doi.org/10.1088/1361-6633/aa94d4}{10.1088/1361-6633/aa94d4}. 1 citation \\*
+\\*
+& Dellus-Gur, E., \textbf{Ram, Y.}, Hadany, L. (2017) \emph{Errors in mutagenesis and the benefit of cell-to-cell signalling in the evolution of stress-induced mutagenesis}. Royal Society Open Science, 4:170529. DOI: \href{http://doi.org/10.1098/rsos.170529}{10.1098/rsos.170529}. \\*
+\\*
+& Obolski, U., Lewin-Epstein, O., Even-Tov, E., \textbf{Ram, Y.}, Hadany, L. (2017) \emph{With a little help from my friends: cooperation can accelerate the rate of adaptive valley crossing}. BMC Evolutionary Biology, 17:143. DOI: \href{http://doi.org/10.1186/s12862-017-0983-2}{10.1186/s12862-017-0983-2}. 1 citation \\*
+\\*
+& Rougier, N.P., $\ldots$ , \textbf{Ram, Y.}, et al. (2017) \emph{Sustainable computational science: the ReScience initiative}. PeerJ Computer Science, 3: e142. DOI:\href{http:/doi.org/10.7717/peerj-cs.142}{10.7717/peerj-cs.142}. 3 citations \\*
+\\
+& \textbf{Ram, Y.}, Hadany, L. (2016) \emph{Condition-dependent sex: who does it, when, and why?}. Philosophical Transactions of the Royal Society B, 371: 20150539. DOI: \href{http://doi.org/10.1098/rstb.2015.0539}{10.1098/rstb.2015.0539}. 5 citations \\
+\\
+& \textbf{Ram, Y.}, Hadany, L. (2015) \emph{The probability of improvement in Fisher's geometric model: a probabilistic approach}. Theoretical Population Biology, 99: 1-6. DOI: \href{http://doi.org/10.1016/j.tpb.2014.10.004}{10.1016/j.tpb.2014.10.004}. 5 citations \\
+\\
+& \textbf{Ram, Y.}, Hadany, L. (2014) \emph{Stress-induced mutagenesis and complex adaptation}. Proceedings of the Royal Society B. 281: 20141025. DOI: \href{http://doi.org/10.1098/rspb.2014.1025}{10.1098/rspb.2014.1025}. 25 citations \\
+\\
+& Gueijman, A., Ayali, A., \textbf{Ram, Y.}, Hadany, L. (2013) \emph{Dispersing away from bad environments: The evolution of fitness-associated dispersal (FAD) in homogeneous environments}. BMC Evolutionary Biology, 13:125. DOI: \href{http://doi.org/10.1186/1471-2148-13-125}{10.1186/1471-2148-13-125}. 11 citations \\
+\\
+& \textbf{Ram, Y.}, Hadany, L. (2012) \emph{The evolution of stress-induced hypermutation in asexual populations}. Evolution (IF 4.2, 66: 2315-2328. DOI: \href{http://doi.org/10.1111/j.1558-5646.2012.01576.x}{10.1111/j.1558-5646.2012.01576.x}. 51 citations \\
+\\
+%%%%%%%%%%%
+\textbf{Submitted}
+%%%%%%%%%%%
+& \textbf{Ram, Y.}, Hadany, L. \emph{The evolution of stress-induced mutagenesis in the presence of recombination}. Under review by \emph{The American Naturalist} \\
+\\
+& \textbf{Ram, Y.}, Dellus-Gur, E., Bibi, M., Obolski, U., Berman, J., Hadany, L. \emph{Predicting microbial relative growth in a mixed culture from growth curve data}. bioRxiv DOI: \href{http://doi.org/10.1101/022640}{10.1101/022640}. Submitted to \emph{PLoS Computational Biology} \\
+\\
+& Zinger, E., Guiejman, A, \textbf{Ram, Y.}, Ruby, E., Binder, M., Yechieli, N., Ohad, N., Hadany L. \emph{The plant and the ant: less fit Lamium plants produce more dispersible seeds}. Submitted to \emph{Ecology Letters} \\
+\\
+%%%%%%%%%%%
+\textbf{Datasets \\ \& Software}
+%%%%%%%%%%%
+& \textbf{Ram, Y.}, Zinger, E., Hadany, L. (2017). \emph{Sid: Image processing for seed images}. Zenodo. DOI: \href{http://doi.org/10.5281/zenodo.344898}{10.5281/zenodo.344898}. \\
+\\
+& \textbf{Ram, Y.}, Hadany L. (2014) \emph{Data from: Stress-induced mutagenesis and complex adaptation}. Dryad Digital Repository. DOI: \href{http://doi.org/10.5061/dryad.3066j}{10.5061/dryad.3066j}. \\
+\\
+& \textbf{Ram, Y.}, Guiejman, A. and Hadany L. (2014). \emph{proevolution simulation: Version Dobzhansky}. ZENODO. DOI: \href{http://doi.org/10.5281/zenodo.11400}{10.5281/zenodo.11400}. \\
+\\
+& \textbf{Ram, Y.}, Hadany, L. (2014) \emph{proevolution simulation: Version Charles. ZENODO}. DOI: \href{http://doi.org/10.5281/zenodo.11401}{10.5281/zenodo.11401}.\\
+
+\end{longtable}
+} 
+
+%\pagebreak
+
+\section*{Teaching \& Mentoring Experience} {
+\begin{longtable}{L!{\VRule}R}
+
+2016-- &
+\textbf{Technical Instructor}, Private training for Industry \\*
+& Designed and developed multiple scientific programming workshops \\*
+& Taught 1-5 day workshops in Israel and in California \\*
+& \href{http://python.yoavram.com}{python.yoavram.com} \\*
+\\*
+2015 & 
+\textbf{Lecturer}, Python Programming for Biologists, Tel-Aviv University \\*
+& Developed and taught a new \& successful course for postgraduate Biology students \\*
+& \href{http://py4life.github.io}{py4life.github.io} \\*
+\\*
+2014-2015 & 
+\textbf{Lecturer}, Python Programming for Engineers, Tel-Aviv University \\*
+& Lead 9 staff members, together teaching 600 1st year Engineering students. \\*
+& Received the \emph{Dean's Award for Excellence in Teaching} \\*
+\\*
+2014 & 
+\textbf{Teaching Assistant}, Extended Introduction to Computer Science, Tel-Aviv University  \\*
+\\*
+2013-2016 &
+\textbf{Mentoring} of undergraduate and graduate students at Hadany Lab \\*
+& Supervised five undergraduate students doing research projects \\*
+& Participated in mentoring of three postgraduate students \\*
+\\
+2013-2014 & 
+\textbf{Lecturer}, Gentle Introduction to Programming, Tel-Aviv University \\*
+& Preparation course for 1st year Computer Science students \\*
+\\
+2013-2014 & 
+\textbf{Lecturer}, Introduction to Programming for Engineers, Tel-Aviv University \\*
+& Preparation course for 1st year Engineering students \\*
+\\
+2012, 2015 & 
+\textbf{Teaching Assistant}, Evolution, Tel-Aviv University \\*
+\\
+2011-2013 & 
+\textbf{Teaching Assistant}, Python Programming for Engineers, Tel-Aviv University \\*
+& Developed with two other postgraduate students a new course for 1st year Engineering students \\*
+\\
+%2010-2012 &
+%\textbf{Private Teacher}, undergraduate Mathematics and Computer Science students \\*
+%\\
+2005 & 
+\textbf{Course Commander}, IDF Intelligence Corps \\*
+& Responsible for intensive 3-month training of 8 recruits with B.Sc. in Exact Sciences \\*
+ֿֿ
+\end{longtable}
+}  
+
+\pagebreak
+
+\section*{Selected Presentations} {
+\begin{longtable}{L!{\VRule}R}
+2018
+& Invited speaker at the \emph{Genome Evolution Conference}, Weizmann Institute \\*[0.1cm]
+\\
+2017 
+& Oral presentation at the \emph{Evolgenome} seminar, Stanford University \\*[0.1cm]
+
+$\ast$ & Poster at the \emph{Gordon Research Conference} on Biological Mechanisms in Evolution, Stonehill College, Easton, MA, USA \\*[0.1cm]
+$\ast$ & Oral presentation at \emph{Israel Society for Microbiology} Annual Meeting. \\*[0.1cm]
+$\ast$ & Oral presentation at \emph{FISEB/ILANIT}, Eilat. \\*
+\\*
+2016
+& Seminar at the Instituto Gulbenkian de Ci\^{e}ncia, Portugal. \\*
+\\*
+2015
+& \textbf{Oral presentation at the \emph{Gordon Research Conference} on Biological Mechanisms in Evolution}, Stonehill College, Easton, MA, USA \\*[0.1cm]
+$\ast$ & Poster at the \emph{"Forecasting Evolution?"} SFB 680 conference in Lisbon, Portugal \\*[0.1cm]
+$\ast$ & Seminar at the Institute of Science and Technology, Austria \\*[0.1cm]
+$\ast$ & Short oral presentation at the \emph{Two2Many} Systems Biology Conference, Weizmann Institute \\*
+\\
+2013 
+& Poster at \emph{ESEB 2013} in Lisbon, Portugal \\*[0.1cm]
+$\ast$ & Poster at the \emph{Gordon Research Conference} on Biological Mechanisms in Evolution, Stonehill College, Easton, MA, USA \\*[0.1cm]
+$\ast$ & Oral presentation at the 5th Annual \emph{SIDEER Graduate Symposium}, Ben-Gurion University of the Negev, Sede-Boqer Campus \\*
+\\
+2012
+& Oral presentation at the 1st Graduate Students Conference in \emph{Genetics, Genomics and Evolution}, Ben-Gurion University of the Negev. DOI: \href{http://doi.org/10.6084/m9.figshare.96049}{10.6084/m9.figshare.96049}. \\*[0.1cm]
+$\ast$ &  \textbf{Oral presentation at \emph{PopGroup 45} in Nottingham, UK}. DOI: \href{http://doi.org/10.6084/m9.figshare.95939}{10.6084/m9.figshare.95939}. \\*
+\\
+2011
+& Poster at \emph{ESEB 2011} in Tubingen, Germany. F1000 Posters 2011, 2: 1484. \\*
+\\
+2010
+& Poster at \emph{SMBE 2010} in Lyon, France. \\*[0.1cm]
+as undergrad
+& Poster at \emph{MMSB} in Tel-Aviv, Israel, 2010 -- \textbf{Best poster award}\\*
+
+\end{longtable}
+} 
+
+%\pagebreak
+
+\section*{Other Academic Activities} {
+\begin{longtable}{L!{\VRule}R}
+\textbf{Reviewer}
+& PLOS Genetics \\*
+2011-- 
+& Proceeding of the Royal Society B \\*
+& Evolution \\*
+& Journal of Evolutionary Biology \\*
+& PLOS ONE \\*
+& Theoretical Population Biology \\*
+& Integrative Zoology \\*
+& Quarterly Review of Biology \\*
+& ReScience \\*
+& Israel Journal of Ecology \& Evolution \\*
+\\
+\textbf{Co-organizer}
+& \href{https://biomathsjctau.wordpress.com}{BioMath Student Journal Club}, Tel Aviv University \\*
+2011-2014 & \\*
+\\
+\textbf{Popular Media} 
+& Even-Tov, E., Obolski, U., Gueijman, A., \textbf{Ram, Y.}, Hadany, L. (2010) \emph{The Evolutionary Riddle of Sexual Reproduction}. Galileo, an Israeli journal for popular science: June, 32-41 \\*
+\\
+\textbf{Outreach}
+& \emph{Dive into Scientific Python} | Oral presentation, DataTalks meetup, Herzeliya, March 15, 2017 | \href{https://www.youtube.com/watch?v=TaIhctLjILI}{YouTube} \\*
+\\*
+$\ast$ & \emph{How to study evolution using Scientific Python} | Oral presentation, PyCon Israel 2016, Tel Aviv, May 2 - 3, 2016 | \href{http://www.youtube.com/watch?v=2w8Tv016Frw}{YouTube} \\*
+\\*
+$\ast$ & \emph{Evolution and mutation in stressful times} | Oral presentation, The Evolution Series, Tel Aviv University Botanical Gardens, May 16, 2013 | \href{https://speakerdeck.com/yoavram/bvlvtsyh-vmvttsyh-b-tvt-qh}{PDF} \\*
+\end{longtable}
+} 
+
+\end{document}
+
+
+
+
